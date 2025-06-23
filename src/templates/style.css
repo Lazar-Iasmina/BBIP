@@ -1,0 +1,115 @@
+.container {
+    max-width: 1140px;
+    /* cap width at 1140px (Bootstrap’s XL breakpoint max):contentReference[oaicite:2]{index=2} */
+    margin: 0 auto;
+    /* auto left/right margins to center the container */
+}
+
+body {
+    width: 1140px;
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2,
+h3 {
+    color: #1778FB;
+    font-weight: 600;
+}
+
+.container {
+    background: white;
+    border-radius: 16px;
+    padding: 2rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    margin-bottom: 2rem;
+
+}
+
+.table {
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+}
+
+th {
+    background-color: #e9f3ff !important;
+    color: #1778FB;
+    font-weight: 600;
+}
+
+td {
+    background-color: #f9fbff;
+}
+
+.table td,
+.table th {
+    vertical-align: middle;
+}
+
+.form-control,
+.form-select,
+.btn {
+    border-radius: 10px;
+}
+
+.btn-primary {
+    background-color: #1778FB;
+    border-color: #1778FB;
+}
+
+.btn-primary:hover {
+    background-color: #1468d3;
+    border-color: #1468d3;
+}
+
+.btn-secondary {
+    background-color: #14C6A4;
+    border-color: #14C6A4;
+}
+
+.btn-secondary:hover {
+    background-color: #10b395;
+    border-color: #10b395;
+}
+
+.alert-info {
+    background-color: #e7f5ff;
+    border: 1px solid #b6e0fe;
+    color: #1778FB;
+    font-weight: 500;
+    border-radius: 10px;
+    margin: 1rem 2rem;
+}
+
+canvas {
+    background: #fff;
+    border-radius: 12px;
+    padding: 1rem;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+    margin-top: 1rem;
+}
+
+input::placeholder {
+    color: #aaa;
+}
+
+.form-select,
+.form-control {
+    border-color: #cfe2ff;
+}
+
+.form-control:focus,
+.form-select:focus {
+    border-color: #1778FB;
+    box-shadow: 0 0 0 0.2rem rgba(23, 120, 251, 0.25);
+}
+
+@media (max-width: 768px) {
+    canvas {
+        width: 100% !important;
+    }
+}

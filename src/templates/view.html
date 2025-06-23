@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Doctor 31</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        .container {
+            max-width: 1140px;
+            /* cap width at 1140px (Bootstrap’s XL breakpoint max):contentReference[oaicite:2]{index=2} */
+            margin: 0 auto;
+            /* auto left/right margins to center the container */
+        }
+
+        body {
+            width: 1140px;
+            margin: 0;
+            padding: 0;
+            background: #ffffff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        h2,
+        h3 {
+            color: #1778FB;
+            font-weight: 600;
+        }
+
+        .container {
+            background: white;
+            border-radius: 16px;
+            padding: 2rem;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+            margin-bottom: 2rem;
+
+        }
+
+        .sort-icon::before {
+            content: "";
+            /* nesortat = nimic */
+            margin-left: 5px;
+            font-family: "FontAwesome";
+            font-style: normal;
+            font-weight: normal;
+        }
+
+        .sort-icon.ascending::before {
+            content: "\f0de";
+            /* FontAwesome arrow-up */
+        }
+
+        .sort-icon.descending::before {
+            content: "\f0dd";
+            /* FontAwesome arrow-down */
+        }
+
+        .table {
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+        }
+
+        th {
+            background-color: #e9f3ff !important;
+            color: #1778FB;
+            font-weight: 600;
+        }
+
+        td {
+            background-color: #f9fbff;
+        }
+
+        .table td,
+        .table th {
+            vertical-align: middle;
+        }
+
+        .form-control,
+        .form-select,
+        .btn {
+            border-radius: 10px;
+        }
+
+        .btn-primary {
+            background-color: #1778FB;
+            border-color: #1778FB;
+        }
+
+        .btn-primary:hover {
+            background-color: #1468d3;
+            border-color: #1468d3;
+        }
+
+        .btn-secondary {
+            background-color: #14C6A4;
+            border-color: #14C6A4;
+        }
+
+        .btn-secondary:hover {
+            background-color: #10b395;
+            border-color: #10b395;
+        }
+
+        .alert-info {
+            background-color: #e7f5ff;
+            border: 1px solid #b6e0fe;
+            color: #1778FB;
+            font-weight: 500;
+            border-radius: 10px;
+            margin: 1rem 2rem;
+        }
+
+        canvas {
+            background: #fff;
+            border-radius: 12px;
+            padding: 1rem;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+            margin-top: 1rem;
+        }
+
+        input::placeholder {
+            color: #aaa;
+        }
+
+        .form-select,
+        .form-control {
+            border-color: #cfe2ff;
+        }
+
+        .form-control:focus,
+        .form-select:focus {
+            border-color: #1778FB;
+            box-shadow: 0 0 0 0.2rem rgba(23, 120, 251, 0.25);
+        }
+
+        @media (max-width: 768px) {
+            canvas {
+                width: 100% !important;
+            }
+        }
+    </style>
+
+</head>
+
+<body style="align-content: baseline">
+
+    <!-- <div class="alert alert-info">
+            <strong>Rezumat:</strong> <span id="totalRows"></span> total |
+            <span id="countCombined"></span> anomalii combinate |
+            <span id="countRule"></span> rule-based |
+            <span id="countML"></span> ML-based
+        </div> -->
+    <div class="container mt-4">
+
+        <!-- Filters -->
+        <div class="row mb-3">
+            <div class="col-md-4">
+                <input type="text" id="searchInput" class="form-control" placeholder="Caută după ID sau Agreement">
+            </div>
+            <div class="col-md-3">
+                <select id="anomalyFilter" class="form-select">
+                    <option value="all">Toate anomaliile</option>
+                    <option value="true">Doar True</option>
+                    <option value="false">Doar False</option>
+                </select>
+            </div>
+            <div class="col-md-2">
+                <button class="btn btn-secondary" onclick="resetFilters()">Reset</button>
+            </div>
+            <div class="col-md-3">
+                <button id="exportBtn" class="btn btn-primary w-100">Export CSV</button>
+            </div>
+        </div>
+
+        <!-- Content: Left = Charts, Right = Table -->
+        <div class="container">
+            <div class="row g-3">
+                <!-- reduced gutter spacing for a tighter layout:contentReference[oaicite:1]{index=1} -->
+                <div class="col-lg-6 col-12">
+                    <h4 class="mb-3">Statistici vizuale</h4>
+                    <canvas id="chartIMC" height="200" class="mb-4"></canvas>
+                    <canvas id="chartSex" height="200" class="mb-4"></canvas>
+                    <canvas id="chartGreutate" height="200" class="mb-4"></canvas>
+                    <canvas id="chartInaltime" height="200" class="mb-4"></canvas>
+                    <canvas id="chartScorAnomalie" height="200"></canvas>
+                </div>
+
+
+                <div class="col-lg-6 col-12">
+                    <h2>Customer Data</h2>
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th onclick="sortTableByColumn(0)">ID<span class="sort-icon" data-index="0"></th>
+                                <th onclick="sortTableByColumn(1)">Age<span class="sort-icon" data-index="1"></th>
+                                <th onclick="sortTableByColumn(2)">Sex<span class="sort-icon" data-index="2"></th>
+                                <th onclick="sortTableByColumn(3)">Agreement<span class="sort-icon" data-index="3"></th>
+                                <th onclick="sortTableByColumn(4)">Greutate<span class="sort-icon" data-index="4"></th>
+                                <th onclick="sortTableByColumn(5)">Inaltime<span class="sort-icon" data-index="5"></th>
+                                <th onclick="sortTableByColumn(6)">IMC<span class="sort-icon" data-index="6"></th>
+                                <th onclick="sortTableByColumn(7)">Data<span class="sort-icon" data-index="7"></th>
+                                <th onclick="sortTableByColumn(8)">Finalizat<span class="sort-icon" data-index="8"></th>
+                                <th onclick="sortTableByColumn(9)">Testing<span class="sort-icon" data-index="9"></th>
+                                <th onclick="sortTableByColumn(10)">IMC Index<span class="sort-icon" data-index="10">
+                                </th>
+                                <th onclick="sortTableByColumn(11)">Rule Anomaly<span class="sort-icon" data-index="11">
+                                </th>
+                                <th onclick="sortTableByColumn(12)">ML Anomaly<span class="sort-icon" data-index="12">
+                                </th>
+                                <th onclick="sortTableByColumn(13)">Anomaly Score<span class="sort-icon"
+                                        data-index="13"></th>
+                                <th onclick="sortTableByColumn(14)">Combined<span class="sort-icon" data-index="14">
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody id="customer-table-body">
+                            <tr>
+                                <td colspan="15" class="text-center">Loading...</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <script>
+        let filteredData = [];
+        function drawIMCChart(data) {
+            const counts = {
+                "Underweight": 0,
+                "Normal weight": 0,
+                "Overweight": 0,
+                "Obese": 0,
+                "Extremly Obese": 0
+            };
+
+            data.forEach(r => {
+                if (counts.hasOwnProperty(r.IMC)) {
+                    counts[r.IMC]++;
+                }
+            });
+
+            const ctx = document.getElementById("chartIMC").getContext("2d");
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: Object.keys(counts),
+                    datasets: [{
+                        label: "Număr persoane",
+                        data: Object.values(counts),
+                        backgroundColor: "rgba(75, 192, 192, 0.6)",
+                        borderColor: "rgba(75, 192, 192, 1)",
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            ticks: { stepSize: 1 }
+                        }
+                    }
+                }
+            });
+        }
+
+
+        function loadData() {
+            fetch("/api/data")
+                .then(response => response.json())
+                .then(data => {
+
+                    const tbody = document.getElementById("customer-table-body");
+                    tbody.innerHTML = "";
+
+                    drawIMCChart(data);
+
+                    let total = data.length;
+                    let rule = data.filter(r => r.rule_anomaly === true).length;
+                    let ml = data.filter(r => r.ml_anomaly === true).length;
+                    let combined = data.filter(r => r.combined_anomaly === true).length;
+
+                    // document.getElementById("totalRows").textContent = total;
+                    // document.getElementById("countRule").textContent = rule;
+                    // document.getElementById("countML").textContent = ml;
+                    // document.getElementById("countCombined").textContent = combined;
+
+
+
+                    if (data.error) {
+                        tbody.innerHTML = `<tr><td colspan="15" class="text-danger text-center">${data.error}</td></tr>`;
+                        return;
+                    }
+
+                    const search = document.getElementById("searchInput").value.trim().toLowerCase();
+                    const anomaly = document.getElementById("anomalyFilter").value;
+
+                    const filtered = data.filter(row => {
+                        // Verifică dacă oricare valoare din rând conține termenul căutat
+                        const matchesSearch = Object.values(row).some(val =>
+                            val !== null &&
+                            val !== undefined &&
+                            val.toString().toLowerCase().includes(search)
+                        );
+
+                        const matchesAnomaly =
+                            anomaly === "all" ||
+                            (anomaly === "true" && (row.combined_anomaly === true || row.combined_anomaly === "True")) ||
+                            (anomaly === "false" && (row.combined_anomaly === false || row.combined_anomaly === "False"));
+
+                        return matchesSearch && matchesAnomaly;
+                    });
+                    filteredData = filtered; // păstrăm filtrarea curentă pentru sortare
+                    renderTable(filteredData);
+
+
+
+
+
+                    document.getElementById("exportBtn").addEventListener("click", () => {
+                        const rows = filtered.filter(r => r.combined_anomaly === true);
+                        const csv = [Object.keys(rows[0]).join(",")].concat(rows.map(r => Object.values(r).join(","))).join("\n");
+                        const blob = new Blob([csv], { type: "text/csv" });
+                        const a = document.createElement("a");
+                        a.href = URL.createObjectURL(blob);
+                        a.download = "anomalii.csv";
+                        a.click();
+                    });
+                    renderCharts(data);
+                })
+                .catch(error => {
+                    const tbody = document.getElementById("customer-table-body");
+                    tbody.innerHTML = `<tr><td colspan="15" class="text-danger text-center">Error: ${error}</td></tr>`;
+                });
+
+        }
+        function renderTable(dataArray) {
+            const tbody = document.getElementById("customer-table-body");
+            tbody.innerHTML = "";
+
+            if (!dataArray.length) {
+                tbody.innerHTML = `<tr><td colspan="15" class="text-muted text-center">Nicio potrivire găsită.</td></tr>`;
+                return;
+            }
+
+            dataArray.forEach(row => {
+                const tr = document.createElement("tr");
+                tr.innerHTML = `
+            <td>${row.id_cases}</td>
+            <td>${row.age_v}</td>
+            <td>${row.sex_v}</td>
+            <td>${row.agreement}</td>
+            <td>${row.greutate}</td>
+            <td>${row.inaltime}</td>
+            <td>${row.IMC}</td>
+            <td>${row.data1}</td>
+            <td>${row.finalizat}</td>
+            <td>${row.testing}</td>
+            <td>${row.imcINdex}</td>
+            <td>${row.rule_anomaly}</td>
+            <td>${row.ml_anomaly}</td>
+            <td>${parseFloat(row.anomaly_score).toFixed(2)}</td>
+            <td>${row.combined_anomaly}</td>
+        `;
+                tbody.appendChild(tr);
+            });
+        }
+
+        function renderCharts(data) {
+            // Culori preferate
+            const color1 = "#1778FB";
+            const color2 = "#14C6A4";
+
+            // SEX
+            const sexCounts = data.reduce((acc, row) => {
+                const sex = row.sex_v || "N/A";
+                acc[sex] = (acc[sex] || 0) + 1;
+                return acc;
+            }, {});
+            new Chart(document.getElementById("chartSex"), {
+                type: "pie",
+                data: {
+                    labels: Object.keys(sexCounts),
+                    datasets: [{
+                        data: Object.values(sexCounts),
+                        backgroundColor: [color1, color2, "#ccc"]
+                    }]
+                },
+                options: {
+                    plugins: {
+                        title: { display: true, text: "Distribuție Sex" },
+                        legend: { position: "bottom" }
+                    }
+                }
+            });
+
+            // GREUTATE
+            const greutati = filterOutliers(data.map(r => parseFloat(r.greutate)), 200);
+            new Chart(document.getElementById("chartGreutate"), {
+                type: "bar",
+                data: {
+                    labels: greutati.map((_, i) => i + 1),
+                    datasets: [{
+                        label: "Greutate (kg)",
+                        data: greutati,
+                        backgroundColor: color1
+                    }]
+                },
+                options: {
+                    plugins: { title: { display: true, text: "Distribuție Greutate" } },
+                    scales: { y: { beginAtZero: true } }
+                }
+            });
+
+            // INALTIME
+            const inaltimi = filterOutliers(data.map(r => parseFloat(r.inaltime)), 230);
+            new Chart(document.getElementById("chartInaltime"), {
+                type: "bar",
+                data: {
+                    labels: inaltimi.map((_, i) => i + 1),
+                    datasets: [{
+                        label: "Înălțime (cm)",
+                        data: inaltimi,
+                        backgroundColor: color2
+                    }]
+                },
+                options: {
+                    plugins: { title: { display: true, text: "Distribuție Înălțime" } },
+                    scales: { y: { beginAtZero: true } }
+                }
+            });
+
+            // ANOMALY SCORE
+            const scoruri = data.map(r => parseFloat(r.anomaly_score)).filter(v => !isNaN(v) && isFinite(v));
+            new Chart(document.getElementById("chartScorAnomalie"), {
+                type: "bar",
+                data: {
+                    labels: scoruri.map((_, i) => i + 1),
+                    datasets: [{
+                        label: "Scor Anomalie",
+                        data: scoruri,
+                        backgroundColor: color1
+                    }]
+                },
+                options: {
+                    plugins: { title: { display: true, text: "Scoruri de Anomalie" } },
+                    scales: { y: { beginAtZero: true } }
+                }
+            });
+        }
+
+        function filterOutliers(values, limit) {
+            return values.filter(v => v < limit);
+        }
+        function resetFilters() {
+            document.getElementById("searchInput").value = "";
+            document.getElementById("anomalyFilter").value = "all";
+            loadData();
+        }
+
+        document.getElementById("searchInput").addEventListener("input", loadData);
+        document.getElementById("anomalyFilter").addEventListener("change", loadData);
+
+        window.onload = loadData;
+        let currentSort = { column: null, ascending: true };
+
+        function sortTableByColumn(colIndex) {
+            const asc = currentSort.column === colIndex ? !currentSort.ascending : true;
+            currentSort = { column: colIndex, ascending: asc };
+
+            filteredData.sort((a, b) => {
+                const keys = [
+                    'id_cases', 'age_v', 'sex_v', 'agreement', 'greutate', 'inaltime', 'IMC',
+                    'data1', 'finalizat', 'testing', 'imcINdex', 'rule_anomaly',
+                    'ml_anomaly', 'anomaly_score', 'combined_anomaly'
+                ];
+                const key = keys[colIndex];
+
+                let aVal = a[key], bVal = b[key];
+                if (typeof aVal === "string") aVal = aVal.toLowerCase();
+                if (typeof bVal === "string") bVal = bVal.toLowerCase();
+
+                if (aVal < bVal) return asc ? -1 : 1;
+                if (aVal > bVal) return asc ? 1 : -1;
+                return 0;
+            });
+            // Actualizează săgețile
+            document.querySelectorAll('.sort-icon').forEach(icon => {
+                icon.classList.remove('ascending', 'descending');
+            });
+            const icon = document.querySelector(`.sort-icon[data-index="${colIndex}"]`);
+            if (icon) icon.classList.add(asc ? 'ascending' : 'descending');
+
+
+
+            renderTable(filteredData);
+        }
+
+
+    </script>
+</body>
+
+</html>

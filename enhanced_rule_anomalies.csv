@@ -1,0 +1,1958 @@
+id_cases,age_v,sex_v,greutate,inaltime,imcINdex,anomalies
+7,90,male,185,190,51.2,"Suspicious elderly obesity: age 90.0, BMI 51.2"
+8,90,female,90,134,50.1,"Suspicious elderly obesity: age 90.0, BMI 50.1"
+14,90,female,9,9,1111.1,"Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1; Suspicious elderly obesity: age 90.0, BMI 1111.1"
+15,90,female,186,190,51.5,"Suspicious elderly obesity: age 90.0, BMI 51.5"
+18,90,male,106,185,31.0,"Suspicious elderly obesity: age 90.0, BMI 31.0"
+21,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+22,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+23,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+24,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+25,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+26,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+27,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+28,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+29,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+31,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+33,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+34,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+36,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+50,99,male,9,9,1111.1,"Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1; Suspicious elderly obesity: age 99.0, BMI 1111.1"
+53,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+55,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+59,90,female,9,9,1111.1,"Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1; Suspicious elderly obesity: age 90.0, BMI 1111.1"
+60,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+61,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+62,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+63,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+64,90,female,9,9,1111.1,"Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1; Suspicious elderly obesity: age 90.0, BMI 1111.1"
+65,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+66,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+67,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+68,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+69,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+70,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+71,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+72,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+73,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+74,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+75,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+77,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+79,29,male,86,6,23888.9,Unrealistic height: 6; BMI out of normal range: 23888.9
+80,29,female,80,6,22222.2,Unrealistic height: 6; BMI out of normal range: 22222.2
+86,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+90,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+91,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+92,99,female,9,9,1111.1,"Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1; Suspicious elderly obesity: age 99.0, BMI 1111.1"
+93,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+94,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+95,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+98,90,female,185,185,54.1,"Suspicious elderly obesity: age 90.0, BMI 54.1"
+100,35,female,35,23,661.6,Unrealistic height: 23; BMI out of normal range: 661.6
+104,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+106,90,female,9,196,2.3,Unrealistic weight: 9; BMI out of normal range: 2.3
+107,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+108,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+110,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+111,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+112,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+113,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+114,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+115,99,male,9,9,1111.1,"Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1; Suspicious elderly obesity: age 99.0, BMI 1111.1"
+116,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+117,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+118,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+119,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+120,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+121,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+122,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+123,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+124,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+125,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+126,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+127,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+128,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+131,46,female,84,165,60.6,BMI out of normal range: 60.6
+132,46,female,84,165,60.6,BMI out of normal range: 60.6
+133,25,male,247,31161,0.3,Unrealistic height: 31161; BMI out of normal range: 0.3
+134,25,female,24,16812,0.6,Unrealistic height: 16812; BMI out of normal range: 0.6
+140,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+141,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+142,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+143,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+144,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+145,99,female,9,9,1111.1,"Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1; Suspicious elderly obesity: age 99.0, BMI 1111.1"
+146,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+147,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+148,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+149,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+150,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+152,99,female,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+153,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+154,123,female,112,111,90.9,"Unrealistic age: 123; Unrealistic height: 111; BMI out of normal range: 90.9; Suspicious elderly obesity: age 123.0, BMI 90.9"
+155,99,male,9,9,1111.1,"Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1; Suspicious elderly obesity: age 99.0, BMI 1111.1"
+156,99,male,99,9,12222.2,"Unrealistic height: 9; BMI out of normal range: 12222.2; Suspicious elderly obesity: age 99.0, BMI 12222.2"
+158,89,male,180,185,52.6,"Suspicious elderly obesity: age 89.0, BMI 52.6"
+159,99,female,9,9,1111.1,"Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1; Suspicious elderly obesity: age 99.0, BMI 1111.1"
+160,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+161,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+162,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+163,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+164,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+168,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+170,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+172,18,male,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+173,99,male,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+176,99,female,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+177,99,female,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+179,123,female,11,11,909.1,"Unrealistic age: 123; Unrealistic weight: 11; Unrealistic height: 11; BMI out of normal range: 909.1; Suspicious elderly obesity: age 123.0, BMI 909.1"
+180,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+181,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+182,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+183,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+184,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+185,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+186,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+187,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+188,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+189,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+190,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+191,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+192,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+193,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+194,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+195,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+196,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+197,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+198,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+199,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+200,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+201,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+202,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+203,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+204,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+205,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+206,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+207,101,female,10,10,1000.0,"Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0; Suspicious elderly obesity: age 101.0, BMI 1000.0"
+208,100,female,100,100,100.0,"Unrealistic height: 100; BMI out of normal range: 100.0; Suspicious elderly obesity: age 100.0, BMI 100.0"
+209,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+210,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+211,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+212,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+213,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+214,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+215,10,male,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+216,10,male,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+217,10,male,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+218,1,female,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+219,1,female,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+220,11,female,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+221,1,female,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+222,1,female,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+223,1,female,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+224,1,female,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+225,1,female,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+226,1,female,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+227,99,male,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+228,1,female,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+229,99,female,9,9,1111.1,"Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1; Suspicious elderly obesity: age 99.0, BMI 1111.1"
+230,1,female,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+231,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+232,1,female,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+233,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+234,1,female,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+235,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+236,1,female,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+237,1,female,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+238,1,female,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+239,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+240,1,female,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+241,1,female,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+242,1,female,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+243,1,female,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+244,1,male,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+246,99,female,178,185,52.0,"Suspicious elderly obesity: age 99.0, BMI 52.0"
+247,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+248,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+249,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+258,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+259,99,female,9,9,1111.1,"Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1; Suspicious elderly obesity: age 99.0, BMI 1111.1"
+260,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+261,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+264,20,female,40,58,118.9,Unrealistic height: 58; BMI out of normal range: 118.9
+265,89,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 89.0, BMI 111.1"
+266,89,female,9,9,1111.1,"Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1; Suspicious elderly obesity: age 89.0, BMI 1111.1"
+267,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+268,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+269,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+270,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+271,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+272,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+275,3,female,13,91,15.7,Unrealistic weight: 13; Unrealistic height: 91
+276,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+277,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+278,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+279,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+280,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+281,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+282,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+290,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+291,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+292,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+293,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+294,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+296,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+297,9,male,4,270,37.0,Unrealistic weight: 4; Unrealistic height: 270
+298,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+299,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+300,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+301,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+302,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+303,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+304,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+305,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+306,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+307,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+309,99,female,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+310,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+311,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+312,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+313,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+314,99,female,9,9,1111.1,"Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1; Suspicious elderly obesity: age 99.0, BMI 1111.1"
+315,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+316,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+317,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+318,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+319,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+320,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+321,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+322,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+323,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+324,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+325,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+326,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+327,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+329,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+330,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+331,99,female,9,9,1111.1,"Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1; Suspicious elderly obesity: age 99.0, BMI 1111.1"
+332,9,female,9,7,1836.7,Unrealistic weight: 9; Unrealistic height: 7; BMI out of normal range: 1836.7
+333,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+334,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+336,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+337,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+338,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+339,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+340,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+341,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+342,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+343,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+344,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+345,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+346,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+347,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+348,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+349,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+350,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+351,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+352,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+353,9,female,9,178,2.8,Unrealistic weight: 9; BMI out of normal range: 2.8
+355,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+356,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+357,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+358,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+359,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+360,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+361,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+362,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+363,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+364,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+365,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+370,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+372,10,female,91,165,60.6,BMI out of normal range: 60.6
+373,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+378,998999,female,90,185,26.3,Unrealistic age: 998999
+381,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+387,100,female,-100,100,-100.0,Unrealistic weight: -100; Unrealistic height: 100; BMI out of normal range: -100.0
+388,38,male,24,165,60.6,BMI out of normal range: 60.6
+391,38,male,22,163,61.3,BMI out of normal range: 61.3
+394,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+395,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+396,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+397,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+398,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+399,101,female,10,10,1000.0,"Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0; Suspicious elderly obesity: age 101.0, BMI 1000.0"
+400,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+401,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+402,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+403,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+404,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+405,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+406,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+407,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+408,10,female,10,19,277.0,Unrealistic weight: 10; Unrealistic height: 19; BMI out of normal range: 277.0
+409,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+410,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+411,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+412,10,female,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+413,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+414,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+415,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+416,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+417,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+418,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+419,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+420,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+421,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+422,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+423,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+424,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+425,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+433,99,female,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+435,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+436,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+437,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+438,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+439,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+441,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+442,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+443,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+444,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+446,55,male,178,78,292.6,Unrealistic height: 78; BMI out of normal range: 292.6
+450,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+451,18,male,68,2,680000.0,Unrealistic height: 2; BMI out of normal range: 680000.0
+457,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+459,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+460,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+461,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+462,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+463,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+464,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+465,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+466,34,female,34,34,294.1,Unrealistic height: 34; BMI out of normal range: 294.1
+468,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+471,9,female,9,185,2.6,Unrealistic weight: 9; BMI out of normal range: 2.6
+474,99,female,99,167,35.5,"Suspicious elderly obesity: age 99.0, BMI 35.5"
+475,22,male,5555,555,180.3,Unrealistic weight: 5555; Unrealistic height: 555; BMI out of normal range: 180.3
+476,49,female,59,155,64.5,BMI out of normal range: 64.5
+485,13,male,61,2,610000.0,Unrealistic height: 2; BMI out of normal range: 610000.0
+492,99,female,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+501,99,female,90,89,113.6,"Unrealistic height: 89; BMI out of normal range: 113.6; Suspicious elderly obesity: age 99.0, BMI 113.6"
+502,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+504,49,male,75,165,60.6,BMI out of normal range: 60.6
+506,99,female,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+511,28,female,260,57,800.2,Unrealistic height: 57; BMI out of normal range: 800.2
+519,90,female,189,190,52.4,"Suspicious elderly obesity: age 90.0, BMI 52.4"
+520,89,female,106,185,31.0,"Suspicious elderly obesity: age 89.0, BMI 31.0"
+528,42,female,160,52,591.7,Unrealistic height: 52; BMI out of normal range: 591.7
+529,18,female,64,160,62.5,BMI out of normal range: 62.5
+537,39,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+547,4,female,500,80,781.2,Unrealistic weight: 500; Unrealistic height: 80; BMI out of normal range: 781.2
+548,4,female,500,80,781.2,Unrealistic weight: 500; Unrealistic height: 80; BMI out of normal range: 781.2
+549,37,male,162,56,516.6,Unrealistic height: 56; BMI out of normal range: 516.6
+550,4,female,500,80,781.2,Unrealistic weight: 500; Unrealistic height: 80; BMI out of normal range: 781.2
+551,4,female,500,80,781.2,Unrealistic weight: 500; Unrealistic height: 80; BMI out of normal range: 781.2
+552,12,female,40,70,81.6,Unrealistic height: 70; BMI out of normal range: 81.6
+561,31,female,4,148,67.6,Unrealistic weight: 4; BMI out of normal range: 67.6
+564,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+575,99,female,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+576,16,male,55,2,550000.0,Unrealistic height: 2; BMI out of normal range: 550000.0
+578,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+585,53,female,60,158,63.3,BMI out of normal range: 63.3
+600,89,female,178,190,49.3,"Suspicious elderly obesity: age 89.0, BMI 49.3"
+601,32,female,124,56,395.4,Unrealistic height: 56; BMI out of normal range: 395.4
+602,4,female,500,81,762.1,Unrealistic weight: 500; Unrealistic height: 81; BMI out of normal range: 762.1
+605,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+606,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+610,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+614,62,female,83,158,63.3,BMI out of normal range: 63.3
+615,62,female,83,158,63.3,BMI out of normal range: 63.3
+617,42,female,65,158,63.3,BMI out of normal range: 63.3
+618,99,female,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+619,99,female,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+621,90,male,195,210,44.2,"Suspicious elderly obesity: age 90.0, BMI 44.2"
+622,42,female,91,140,71.4,BMI out of normal range: 71.4
+623,89,male,189,189,52.9,"Suspicious elderly obesity: age 89.0, BMI 52.9"
+624,23,male,20,4200,2.4,Unrealistic height: 4200; BMI out of normal range: 2.4
+626,99,female,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+628,9,male,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+632,99,female,99,999,1.0,Unrealistic height: 999; BMI out of normal range: 1.0
+634,99,female,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+636,99,female,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+637,99,female,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+638,78,female,99,99,101.0,Unrealistic height: 99; BMI out of normal range: 101.0
+644,43,female,160,52,591.7,Unrealistic height: 52; BMI out of normal range: 591.7
+648,32,male,80,14,4081.6,Unrealistic height: 14; BMI out of normal range: 4081.6
+649,29,male,95,23,1795.8,Unrealistic height: 23; BMI out of normal range: 1795.8
+657,26,male,30,57,92.3,Unrealistic height: 57; BMI out of normal range: 92.3
+658,21,female,81,160,62.5,BMI out of normal range: 62.5
+659,26,female,52,165,60.6,BMI out of normal range: 60.6
+662,26,female,52,165,60.6,BMI out of normal range: 60.6
+664,99,female,99,98,103.1,"Unrealistic height: 98; BMI out of normal range: 103.1; Suspicious elderly obesity: age 99.0, BMI 103.1"
+665,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+666,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+667,9,female,9,9,1111.1,Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1
+672,98,female,190,189,53.2,"Suspicious elderly obesity: age 98.0, BMI 53.2"
+676,52,female,70,148,67.6,BMI out of normal range: 67.6
+679,16,male,115,510,4.4,Unrealistic height: 510; BMI out of normal range: 4.4
+682,89,male,89,89,112.4,"Unrealistic height: 89; BMI out of normal range: 112.4; Suspicious elderly obesity: age 89.0, BMI 112.4"
+687,99,female,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+688,32,female,27,53,96.1,Unrealistic height: 53; BMI out of normal range: 96.1
+692,44,female,109,61,292.9,Unrealistic height: 61; BMI out of normal range: 292.9
+693,44,female,49,150,66.7,BMI out of normal range: 66.7
+694,44,female,49,150,66.7,BMI out of normal range: 66.7
+695,44,female,49,150,66.7,BMI out of normal range: 66.7
+697,51,female,90,158,63.3,BMI out of normal range: 63.3
+700,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+701,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+702,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+704,99,female,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+705,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+706,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+708,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+709,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+710,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+712,46,female,77,160,62.5,BMI out of normal range: 62.5
+716,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+717,99,female,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+719,72,female,61,160,62.5,BMI out of normal range: 62.5
+720,72,female,61,160,62.5,BMI out of normal range: 62.5
+721,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+722,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+723,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+725,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+726,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+727,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+728,46,female,77,160,62.5,BMI out of normal range: 62.5
+732,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+733,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+734,89,male,89,89,112.4,"Unrealistic height: 89; BMI out of normal range: 112.4; Suspicious elderly obesity: age 89.0, BMI 112.4"
+735,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+736,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+737,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+738,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+739,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+740,53,female,91,160,62.5,BMI out of normal range: 62.5
+741,44,female,32,165,60.6,BMI out of normal range: 60.6
+744,15,female,141,158,63.3,BMI out of normal range: 63.3
+745,15,female,141,158,63.3,BMI out of normal range: 63.3
+746,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+747,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+748,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+749,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+750,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+751,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+752,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+753,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+754,15,female,141,226,44.2,Unrealistic height: 226
+755,15,female,141,158,63.3,BMI out of normal range: 63.3
+756,15,female,141,158,63.3,BMI out of normal range: 63.3
+757,15,female,141,158,63.3,BMI out of normal range: 63.3
+758,50,female,50,60,138.9,Unrealistic height: 60; BMI out of normal range: 138.9
+762,23,male,25,157,10.1,BMI out of normal range: 10.1
+767,10,male,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+769,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+770,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+771,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+772,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+773,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+774,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+775,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+776,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+777,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+778,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+779,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+780,69,male,58,90,71.6,Unrealistic height: 90; BMI out of normal range: 71.6
+781,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+782,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+783,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+784,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+785,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+786,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+787,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+788,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+789,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+790,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+791,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+792,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+793,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+794,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+795,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+796,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+797,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+798,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+799,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+800,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+801,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+802,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+846,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+855,45,male,180,89,227.2,Unrealistic height: 89; BMI out of normal range: 227.2
+867,42,female,65,158,63.3,BMI out of normal range: 63.3
+868,48,female,125,160,62.5,BMI out of normal range: 62.5
+869,48,female,125,160,62.5,BMI out of normal range: 62.5
+874,90,female,90,167,32.3,"Suspicious elderly obesity: age 90.0, BMI 32.3"
+875,64,female,82,158,63.3,BMI out of normal range: 63.3
+876,65,female,82,158,63.3,BMI out of normal range: 63.3
+879,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+880,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+881,45,female,53,13716,0.0,Unrealistic height: 13716; BMI out of normal range: 0.0
+884,28,female,350,57,1077.3,Unrealistic weight: 350; Unrealistic height: 57; BMI out of normal range: 1077.3
+885,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+886,89,male,78,90,96.3,"Unrealistic height: 90; BMI out of normal range: 96.3; Suspicious elderly obesity: age 89.0, BMI 96.3"
+890,99,male,89,90,109.9,"Unrealistic height: 90; BMI out of normal range: 109.9; Suspicious elderly obesity: age 99.0, BMI 109.9"
+891,99,female,90,99,91.8,"Unrealistic height: 99; BMI out of normal range: 91.8; Suspicious elderly obesity: age 99.0, BMI 91.8"
+892,34,female,180,75,320.0,Unrealistic height: 75; BMI out of normal range: 320.0
+893,34,female,180,150,80.0,BMI out of normal range: 80.0
+897,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+898,90,female,90,9,11111.1,"Unrealistic height: 9; BMI out of normal range: 11111.1; Suspicious elderly obesity: age 90.0, BMI 11111.1"
+899,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+900,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+901,18,female,90,90,111.1,Unrealistic height: 90; BMI out of normal range: 111.1
+902,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+903,15,female,141,158,63.3,BMI out of normal range: 63.3
+905,39,female,88,160,62.5,BMI out of normal range: 62.5
+909,48,female,127,160,62.5,BMI out of normal range: 62.5
+915,41,female,88,140,71.4,BMI out of normal range: 71.4
+918,30,female,88,120,83.3,BMI out of normal range: 83.3
+920,38,male,160,162,61.0,BMI out of normal range: 61.0
+923,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+924,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+926,30,female,89,120,83.3,BMI out of normal range: 83.3
+927,30,female,89,120,83.3,BMI out of normal range: 83.3
+930,53,female,109,165,60.6,BMI out of normal range: 60.6
+931,53,female,93,165,60.6,BMI out of normal range: 60.6
+934,28,female,353,57,1086.5,Unrealistic weight: 353; Unrealistic height: 57; BMI out of normal range: 1086.5
+935,69,female,65,158,63.3,BMI out of normal range: 63.3
+936,40,female,61,160,62.5,BMI out of normal range: 62.5
+937,52,female,61,155,64.5,BMI out of normal range: 64.5
+938,52,female,61,155,64.5,BMI out of normal range: 64.5
+940,40,male,85,160,62.5,BMI out of normal range: 62.5
+942,90,female,178,189,49.8,"Suspicious elderly obesity: age 90.0, BMI 49.8"
+943,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+944,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+945,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+946,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+948,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+951,69,male,36,189,10.1,BMI out of normal range: 10.1
+955,78,female,90,89,113.6,Unrealistic height: 89; BMI out of normal range: 113.6
+956,50,female,170,161,65.6,BMI out of normal range: 65.6
+960,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+961,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+962,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+963,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+964,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+965,90,female,90,9,11111.1,"Unrealistic height: 9; BMI out of normal range: 11111.1; Suspicious elderly obesity: age 90.0, BMI 11111.1"
+967,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+968,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+969,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+970,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+971,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+972,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+973,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+974,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+975,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+976,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+977,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+978,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+979,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+980,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+981,90,female,9,189,2.5,Unrealistic weight: 9; BMI out of normal range: 2.5
+982,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+983,90,female,90,9,11111.1,"Unrealistic height: 9; BMI out of normal range: 11111.1; Suspicious elderly obesity: age 90.0, BMI 11111.1"
+984,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+985,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+986,27,female,86,163,61.3,BMI out of normal range: 61.3
+988,42,female,65,158,63.3,BMI out of normal range: 63.3
+989,42,female,65,158,63.3,BMI out of normal range: 63.3
+990,32,female,62,163,61.3,BMI out of normal range: 61.3
+991,90,female,187,90,230.9,"Unrealistic height: 90; BMI out of normal range: 230.9; Suspicious elderly obesity: age 90.0, BMI 230.9"
+992,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+993,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+994,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+995,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+997,90,female,90,9,11111.1,"Unrealistic height: 9; BMI out of normal range: 11111.1; Suspicious elderly obesity: age 90.0, BMI 11111.1"
+998,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+999,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1000,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1001,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1002,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1003,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1004,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1005,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1006,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1012,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1013,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1014,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1015,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1016,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1017,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1018,90,female,90,9,11111.1,"Unrealistic height: 9; BMI out of normal range: 11111.1; Suspicious elderly obesity: age 90.0, BMI 11111.1"
+1019,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1020,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1021,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1022,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1023,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1024,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1025,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1026,90,female,90,9,11111.1,"Unrealistic height: 9; BMI out of normal range: 11111.1; Suspicious elderly obesity: age 90.0, BMI 11111.1"
+1037,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1047,99,female,79977,88769,0.1,Unrealistic weight: 79977; Unrealistic height: 88769; BMI out of normal range: 0.1
+1050,39,female,118,152,65.8,BMI out of normal range: 65.8
+1062,37,female,64,160,62.5,BMI out of normal range: 62.5
+1063,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1064,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1065,80238420,female,98,187,28.0,Unrealistic age: 80238420
+1068,89,female,89,89,112.4,"Unrealistic height: 89; BMI out of normal range: 112.4; Suspicious elderly obesity: age 89.0, BMI 112.4"
+1069,90,female,90,9,11111.1,"Unrealistic height: 9; BMI out of normal range: 11111.1; Suspicious elderly obesity: age 90.0, BMI 11111.1"
+1070,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1071,909,female,90,90,111.1,"Unrealistic age: 909; Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 909.0, BMI 111.1"
+1072,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1073,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1074,90,female,90,9,11111.1,"Unrealistic height: 9; BMI out of normal range: 11111.1; Suspicious elderly obesity: age 90.0, BMI 11111.1"
+1075,45,female,90,90,111.1,Unrealistic height: 90; BMI out of normal range: 111.1
+1076,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1077,90,female,90,9,11111.1,"Unrealistic height: 9; BMI out of normal range: 11111.1; Suspicious elderly obesity: age 90.0, BMI 11111.1"
+1078,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1079,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1081,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1082,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1083,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1084,90,female,90,9,11111.1,"Unrealistic height: 9; BMI out of normal range: 11111.1; Suspicious elderly obesity: age 90.0, BMI 11111.1"
+1085,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1086,90,female,90,9,11111.1,"Unrealistic height: 9; BMI out of normal range: 11111.1; Suspicious elderly obesity: age 90.0, BMI 11111.1"
+1087,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1088,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1090,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1091,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1092,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1093,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1094,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1095,90,female,90,9,11111.1,"Unrealistic height: 9; BMI out of normal range: 11111.1; Suspicious elderly obesity: age 90.0, BMI 11111.1"
+1096,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1097,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1098,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1099,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1100,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1102,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1103,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1105,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1106,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1107,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1108,90,male,90,9,11111.1,"Unrealistic height: 9; BMI out of normal range: 11111.1; Suspicious elderly obesity: age 90.0, BMI 11111.1"
+1109,90,female,9,9,1111.1,"Unrealistic weight: 9; Unrealistic height: 9; BMI out of normal range: 1111.1; Suspicious elderly obesity: age 90.0, BMI 1111.1"
+1110,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1111,90,female,90,9,11111.1,"Unrealistic height: 9; BMI out of normal range: 11111.1; Suspicious elderly obesity: age 90.0, BMI 11111.1"
+1112,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1113,90,female,90,9,11111.1,"Unrealistic height: 9; BMI out of normal range: 11111.1; Suspicious elderly obesity: age 90.0, BMI 11111.1"
+1114,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1119,89,male,89,170,30.8,"Suspicious elderly obesity: age 89.0, BMI 30.8"
+1120,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1125,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1132,99,male,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+1134,99,male,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+1135,78,male,89,88,114.9,Unrealistic height: 88; BMI out of normal range: 114.9
+1136,99,female,9,98,9.4,Unrealistic weight: 9; Unrealistic height: 98; BMI out of normal range: 9.4
+1143,98,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 98.0, BMI 111.1"
+1144,99,female,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+1145,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1147,98,female,90,167,32.3,"Suspicious elderly obesity: age 98.0, BMI 32.3"
+1149,89,female,89,89,112.4,"Unrealistic height: 89; BMI out of normal range: 112.4; Suspicious elderly obesity: age 89.0, BMI 112.4"
+1151,98,female,98,98,102.0,"Unrealistic height: 98; BMI out of normal range: 102.0; Suspicious elderly obesity: age 98.0, BMI 102.0"
+1157,45,male,70,6,28000.0,Unrealistic height: 6; BMI out of normal range: 28000.0
+1158,45,male,70,5,28000.0,Unrealistic height: 5; BMI out of normal range: 28000.0
+1160,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1169,65,male,55,6,15277.8,Unrealistic height: 6; BMI out of normal range: 15277.8
+1172,47,male,89,2,890000.0,Unrealistic height: 2; BMI out of normal range: 890000.0
+1176,32,female,75,155,64.5,BMI out of normal range: 64.5
+1185,52,female,116,165,60.6,BMI out of normal range: 60.6
+1186,52,female,116,165,60.6,BMI out of normal range: 60.6
+1192,35,female,110,120,76.4,BMI out of normal range: 76.4
+1193,35,female,110,130,65.1,BMI out of normal range: 65.1
+1199,43,female,54,165,60.6,BMI out of normal range: 60.6
+1200,43,female,54,163,61.3,BMI out of normal range: 61.3
+1201,43,female,54,163,61.3,BMI out of normal range: 61.3
+1203,92,male,82,175,57.1,"Suspicious elderly obesity: age 92.0, BMI 57.1"
+1204,39,female,87,160,62.5,BMI out of normal range: 62.5
+1206,20,female,40,5,16000.0,Unrealistic height: 5; BMI out of normal range: 16000.0
+1230,44,female,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+1234,63,female,68,155,64.5,BMI out of normal range: 64.5
+1241,62,female,83,158,63.3,BMI out of normal range: 63.3
+1242,16,female,44,155,64.5,BMI out of normal range: 64.5
+1243,15,female,44,155,64.5,BMI out of normal range: 64.5
+1244,50,female,61,160,62.5,BMI out of normal range: 62.5
+1245,50,female,61,160,62.5,BMI out of normal range: 62.5
+1250,27,female,22,20,550.0,Unrealistic height: 20; BMI out of normal range: 550.0
+1253,32,female,66,160,62.5,BMI out of normal range: 62.5
+1255,78,female,50,148,67.6,BMI out of normal range: 67.6
+1261,36,female,114,165,60.6,BMI out of normal range: 60.6
+1262,39,male,169,12,11736.1,Unrealistic height: 12; BMI out of normal range: 11736.1
+1263,56,male,169,18,5216.0,Unrealistic height: 18; BMI out of normal range: 5216.0
+1270,64,female,78,158,63.3,BMI out of normal range: 63.3
+1271,64,female,78,158,63.3,BMI out of normal range: 63.3
+1284,37,male,72,68,155.7,Unrealistic height: 68; BMI out of normal range: 155.7
+1291,38,female,75,158,63.3,BMI out of normal range: 63.3
+1292,38,female,75,158,63.3,BMI out of normal range: 63.3
+1306,47,female,68,158,63.3,BMI out of normal range: 63.3
+1312,37,male,70,70,142.9,Unrealistic height: 70; BMI out of normal range: 142.9
+1340,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1341,99,female,99,180,30.6,"Suspicious elderly obesity: age 99.0, BMI 30.6"
+1348,27,female,54,155,64.5,BMI out of normal range: 64.5
+1353,18,female,155,155,64.5,BMI out of normal range: 64.5
+1354,46,female,83,155,64.5,BMI out of normal range: 64.5
+1355,46,female,83,155,64.5,BMI out of normal range: 64.5
+1356,23,male,25,76,131.6,Unrealistic height: 76; BMI out of normal range: 131.6
+1366,89,female,109,189,30.5,"Suspicious elderly obesity: age 89.0, BMI 30.5"
+1372,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1374,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1376,89,female,98,178,30.9,"Suspicious elderly obesity: age 89.0, BMI 30.9"
+1377,89,female,89,89,112.4,"Unrealistic height: 89; BMI out of normal range: 112.4; Suspicious elderly obesity: age 89.0, BMI 112.4"
+1378,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1382,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1389,89,male,89,89,112.4,"Unrealistic height: 89; BMI out of normal range: 112.4; Suspicious elderly obesity: age 89.0, BMI 112.4"
+1391,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1392,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1395,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1396,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1397,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1398,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1399,99,female,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+1400,90,female,90,9,11111.1,"Unrealistic height: 9; BMI out of normal range: 11111.1; Suspicious elderly obesity: age 90.0, BMI 11111.1"
+1401,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1402,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1404,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1405,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1407,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1408,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1409,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1415,99,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 99.0, BMI 111.1"
+1416,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1417,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1418,99,female,99,99,101.0,"Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 99.0, BMI 101.0"
+1419,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1424,78,male,78,78,128.2,Unrealistic height: 78; BMI out of normal range: 128.2
+1425,999,female,99,99,101.0,"Unrealistic age: 999; Unrealistic height: 99; BMI out of normal range: 101.0; Suspicious elderly obesity: age 999.0, BMI 101.0"
+1426,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1427,34,female,34,34,294.1,Unrealistic height: 34; BMI out of normal range: 294.1
+1428,89,male,89,89,112.4,"Unrealistic height: 89; BMI out of normal range: 112.4; Suspicious elderly obesity: age 89.0, BMI 112.4"
+1431,23,male,17,178,5.4,Unrealistic weight: 17; BMI out of normal range: 5.4
+1438,34,male,34,34,294.1,Unrealistic height: 34; BMI out of normal range: 294.1
+1441,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1442,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1443,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1447,98,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 98.0, BMI 111.1"
+1449,39,female,87,160,62.5,BMI out of normal range: 62.5
+1451,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1453,90,female,90,9,11111.1,"Unrealistic height: 9; BMI out of normal range: 11111.1; Suspicious elderly obesity: age 90.0, BMI 11111.1"
+1456,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1463,45,female,90,90,111.1,Unrealistic height: 90; BMI out of normal range: 111.1
+1466,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1474,57,female,90,90,111.1,Unrealistic height: 90; BMI out of normal range: 111.1
+1478,45,female,90,90,111.1,Unrealistic height: 90; BMI out of normal range: 111.1
+1482,41,male,27,158,63.3,BMI out of normal range: 63.3
+1486,63,female,69,2,690000.0,Unrealistic height: 2; BMI out of normal range: 690000.0
+1488,70,female,107,90,132.1,Unrealistic height: 90; BMI out of normal range: 132.1
+1489,67,female,90,276,11.8,Unrealistic height: 276; BMI out of normal range: 11.8
+1491,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1495,56,male,78,78,128.2,Unrealistic height: 78; BMI out of normal range: 128.2
+1503,89,female,78,23,1474.5,"Unrealistic height: 23; BMI out of normal range: 1474.5; Suspicious elderly obesity: age 89.0, BMI 1474.5"
+1505,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1506,90,male,90,9,11111.1,"Unrealistic height: 9; BMI out of normal range: 11111.1; Suspicious elderly obesity: age 90.0, BMI 11111.1"
+1509,90,male,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1522,52,female,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+1527,67,female,89,67,198.3,Unrealistic height: 67; BMI out of normal range: 198.3
+1533,42,female,65,158,63.3,BMI out of normal range: 63.3
+1534,67,female,89,80,139.1,Unrealistic height: 80; BMI out of normal range: 139.1
+1538,80,female,90,80,140.6,Unrealistic height: 80; BMI out of normal range: 140.6
+1539,67,female,90,90,111.1,Unrealistic height: 90; BMI out of normal range: 111.1
+1544,50,female,93,158,63.3,BMI out of normal range: 63.3
+1545,50,female,93,158,63.3,BMI out of normal range: 63.3
+1546,75,female,89,163,61.3,BMI out of normal range: 61.3
+1548,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1549,58,female,90,90,111.1,Unrealistic height: 90; BMI out of normal range: 111.1
+1550,67,female,90,90,111.1,Unrealistic height: 90; BMI out of normal range: 111.1
+1551,78,female,90,90,111.1,Unrealistic height: 90; BMI out of normal range: 111.1
+1552,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1553,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1554,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1555,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1556,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1557,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1558,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1559,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1560,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1561,67,female,90,90,111.1,Unrealistic height: 90; BMI out of normal range: 111.1
+1562,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1563,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1564,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1572,32,female,85,155,64.5,BMI out of normal range: 64.5
+1573,32,female,83,155,64.5,BMI out of normal range: 64.5
+1577,90,female,90,9,11111.1,"Unrealistic height: 9; BMI out of normal range: 11111.1; Suspicious elderly obesity: age 90.0, BMI 11111.1"
+1578,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1593,28,female,159,160,62.1,BMI out of normal range: 62.1
+1594,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1595,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1596,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1597,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1598,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1599,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1600,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1601,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1604,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1605,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1606,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1607,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1608,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1609,90,female,90,9,11111.1,"Unrealistic height: 9; BMI out of normal range: 11111.1; Suspicious elderly obesity: age 90.0, BMI 11111.1"
+1610,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1611,90,female,90,9,11111.1,"Unrealistic height: 9; BMI out of normal range: 11111.1; Suspicious elderly obesity: age 90.0, BMI 11111.1"
+1612,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1613,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1614,52,female,72,2,720000.0,Unrealistic height: 2; BMI out of normal range: 720000.0
+1616,36,female,56,160,62.5,BMI out of normal range: 62.5
+1617,26,female,73,158,63.3,BMI out of normal range: 63.3
+1619,90,female,90,90,111.1,"Unrealistic height: 90; BMI out of normal range: 111.1; Suspicious elderly obesity: age 90.0, BMI 111.1"
+1630,63,female,51,155,64.5,BMI out of normal range: 64.5
+1646,34,female,109,165,60.6,BMI out of normal range: 60.6
+1647,34,female,106,165,60.6,BMI out of normal range: 60.6
+1648,40,female,54,160,62.5,BMI out of normal range: 62.5
+1649,40,female,54,160,62.5,BMI out of normal range: 62.5
+1650,40,female,54,160,62.5,BMI out of normal range: 62.5
+1658,18,female,116,158,63.3,BMI out of normal range: 63.3
+1659,35,female,180,570,5.5,Unrealistic height: 570; BMI out of normal range: 5.5
+1660,53,female,59,155,64.5,BMI out of normal range: 64.5
+1672,26,male,76,5,30400.0,Unrealistic height: 5; BMI out of normal range: 30400.0
+1673,25,male,55,6,22000.0,Unrealistic height: 6; BMI out of normal range: 22000.0
+1678,25,male,68,50,272.0,Unrealistic height: 50; BMI out of normal range: 272.0
+1684,62,male,255,185,74.5,BMI out of normal range: 74.5
+1686,50,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+1715,26,female,56,163,61.3,BMI out of normal range: 61.3
+1716,26,female,56,163,61.3,BMI out of normal range: 61.3
+1717,26,female,56,163,61.3,BMI out of normal range: 61.3
+1737,28,male,299,65,707.7,Unrealistic height: 65; BMI out of normal range: 707.7
+1738,45,male,400,45,1975.3,Unrealistic weight: 400; Unrealistic height: 45; BMI out of normal range: 1975.3
+1762,20,female,81,2,810000.0,Unrealistic height: 2; BMI out of normal range: 810000.0
+1767,42,female,5,142,2.5,Unrealistic weight: 5; BMI out of normal range: 2.5
+1773,35,male,200,178,63.1,BMI out of normal range: 63.1
+1774,35,male,200,178,63.1,BMI out of normal range: 63.1
+1775,35,male,200,178,63.1,BMI out of normal range: 63.1
+1780,7,male,16,1,inf,Unrealistic weight: 16; Unrealistic height: 1; BMI out of normal range: inf
+1796,39,female,97,160,62.5,BMI out of normal range: 62.5
+1802,41,female,100,161,62.1,BMI out of normal range: 62.1
+1803,41,female,100,161,62.1,BMI out of normal range: 62.1
+1805,18,female,122,165,60.6,BMI out of normal range: 60.6
+1808,21,male,55,965,0.6,Unrealistic height: 965; BMI out of normal range: 0.6
+1809,32,female,66,160,62.5,BMI out of normal range: 62.5
+1810,32,female,66,160,62.5,BMI out of normal range: 62.5
+1811,32,female,66,160,62.5,BMI out of normal range: 62.5
+1813,18,male,79,2,790000.0,Unrealistic height: 2; BMI out of normal range: 790000.0
+1818,15,female,40,2,400000.0,Unrealistic height: 2; BMI out of normal range: 400000.0
+1829,63,male,60,70,122.4,Unrealistic height: 70; BMI out of normal range: 122.4
+1830,17,male,49,50,196.0,Unrealistic height: 50; BMI out of normal range: 196.0
+1833,50,female,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+1841,32,female,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+1842,32,female,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+1843,32,female,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+1844,32,female,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+1851,32,female,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+1852,32,female,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+1879,13,female,10,65,23.7,Unrealistic weight: 10; Unrealistic height: 65
+1892,49,female,72,2,720000.0,Unrealistic height: 2; BMI out of normal range: 720000.0
+1905,44,female,67,163,61.3,BMI out of normal range: 61.3
+1910,44,female,68,163,61.3,BMI out of normal range: 61.3
+1913,22,female,181,160,62.5,BMI out of normal range: 62.5
+1915,22,female,181,160,62.5,BMI out of normal range: 62.5
+1916,22,female,181,160,62.5,BMI out of normal range: 62.5
+1925,50,male,81,2,810000.0,Unrealistic height: 2; BMI out of normal range: 810000.0
+1926,50,male,81,2,810000.0,Unrealistic height: 2; BMI out of normal range: 810000.0
+1927,3,male,14,73,137.0,Unrealistic weight: 14; Unrealistic height: 73; BMI out of normal range: 137.0
+1931,39,female,91,165,60.6,BMI out of normal range: 60.6
+1934,27,female,56,1580,0.2,Unrealistic height: 1580; BMI out of normal range: 0.2
+1937,52,female,257,5,102800.0,Unrealistic height: 5; BMI out of normal range: 102800.0
+1938,52,female,258,5,103200.0,Unrealistic height: 5; BMI out of normal range: 103200.0
+1939,45,female,72,158,63.3,BMI out of normal range: 63.3
+1940,52,female,258,5,103200.0,Unrealistic height: 5; BMI out of normal range: 103200.0
+1941,45,female,72,158,63.3,BMI out of normal range: 63.3
+1947,38,female,91,165,60.6,BMI out of normal range: 60.6
+1948,15,female,45,2,450000.0,Unrealistic height: 2; BMI out of normal range: 450000.0
+1949,42,female,69,2,690000.0,Unrealistic height: 2; BMI out of normal range: 690000.0
+1950,42,female,69,2,690000.0,Unrealistic height: 2; BMI out of normal range: 690000.0
+1951,22,male,22,22,454.5,Unrealistic height: 22; BMI out of normal range: 454.5
+1953,39,female,98,163,61.3,BMI out of normal range: 61.3
+1964,45,male,104,165,60.6,BMI out of normal range: 60.6
+1971,52,male,116,2,1160000.0,Unrealistic height: 2; BMI out of normal range: 1160000.0
+1977,26,female,63,2,630000.0,Unrealistic height: 2; BMI out of normal range: 630000.0
+1984,31,male,65,2,650000.0,Unrealistic height: 2; BMI out of normal range: 650000.0
+1997,21,male,174,74,317.8,Unrealistic height: 74; BMI out of normal range: 317.8
+1998,28,male,178,74,325.1,Unrealistic height: 74; BMI out of normal range: 325.1
+2001,30,male,180,95,199.4,Unrealistic height: 95; BMI out of normal range: 199.4
+2002,37,female,165,60,458.3,Unrealistic height: 60; BMI out of normal range: 458.3
+2004,19,female,155,48,672.7,Unrealistic height: 48; BMI out of normal range: 672.7
+2005,32,female,175,65,414.2,Unrealistic height: 65; BMI out of normal range: 414.2
+2006,20,male,61,2,610000.0,Unrealistic height: 2; BMI out of normal range: 610000.0
+2007,21,male,65,2,650000.0,Unrealistic height: 2; BMI out of normal range: 650000.0
+2008,17,female,160,45,790.1,Unrealistic height: 45; BMI out of normal range: 790.1
+2010,70,female,160,50,640.0,Unrealistic height: 50; BMI out of normal range: 640.0
+2011,37,female,160,50,640.0,Unrealistic height: 50; BMI out of normal range: 640.0
+2018,37,female,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+2020,44,female,100,100,100.0,Unrealistic height: 100; BMI out of normal range: 100.0
+2024,35,female,160,65,378.7,Unrealistic height: 65; BMI out of normal range: 378.7
+2030,68,female,168,70,342.9,Unrealistic height: 70; BMI out of normal range: 342.9
+2041,20,male,61,2,610000.0,Unrealistic height: 2; BMI out of normal range: 610000.0
+2043,17,female,64,2,640000.0,Unrealistic height: 2; BMI out of normal range: 640000.0
+2044,40,female,92,148,67.6,BMI out of normal range: 67.6
+2052,56,female,53,2,530000.0,Unrealistic height: 2; BMI out of normal range: 530000.0
+2053,56,female,53,2,530000.0,Unrealistic height: 2; BMI out of normal range: 530000.0
+2058,30,female,166,155,69.1,BMI out of normal range: 69.1
+2059,30,female,166,155,69.1,BMI out of normal range: 69.1
+2064,48,female,63,2,630000.0,Unrealistic height: 2; BMI out of normal range: 630000.0
+2068,46,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+2071,17,male,56,2,560000.0,Unrealistic height: 2; BMI out of normal range: 560000.0
+2074,36,female,56,2,560000.0,Unrealistic height: 2; BMI out of normal range: 560000.0
+2075,20,male,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+2076,20,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+2091,31,female,83,2,830000.0,Unrealistic height: 2; BMI out of normal range: 830000.0
+2092,31,female,83,2,830000.0,Unrealistic height: 2; BMI out of normal range: 830000.0
+2096,35,female,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+2101,23,male,74,2,740000.0,Unrealistic height: 2; BMI out of normal range: 740000.0
+2102,23,male,74,2,740000.0,Unrealistic height: 2; BMI out of normal range: 740000.0
+2105,41,female,101,158,63.3,BMI out of normal range: 63.3
+2107,41,female,101,158,63.3,BMI out of normal range: 63.3
+2111,31,male,69,2,690000.0,Unrealistic height: 2; BMI out of normal range: 690000.0
+2116,330,female,100,160,39.1,"Unrealistic age: 330; Suspicious elderly obesity: age 330.0, BMI 39.1"
+2118,23,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+2119,23,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+2123,20,female,40,1,400000.0,Unrealistic height: 1; BMI out of normal range: 400000.0
+2124,20,female,40,1,400000.0,Unrealistic height: 1; BMI out of normal range: 400000.0
+2128,52,male,120,2,1200000.0,Unrealistic height: 2; BMI out of normal range: 1200000.0
+2137,19,female,68,153,65.4,BMI out of normal range: 65.4
+2161,29,female,70,68,151.4,Unrealistic height: 68; BMI out of normal range: 151.4
+2163,42,male,68,2,680000.0,Unrealistic height: 2; BMI out of normal range: 680000.0
+2165,54,male,195,172,65.9,BMI out of normal range: 65.9
+2170,49,female,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+2171,36,female,165,160,64.5,BMI out of normal range: 64.5
+2172,47,female,170,55,562.0,Unrealistic height: 55; BMI out of normal range: 562.0
+2173,47,female,170,55,562.0,Unrealistic height: 55; BMI out of normal range: 562.0
+2179,36,female,62,2,620000.0,Unrealistic height: 2; BMI out of normal range: 620000.0
+2186,28,female,54,2,540000.0,Unrealistic height: 2; BMI out of normal range: 540000.0
+2189,31,female,94,2,940000.0,Unrealistic height: 2; BMI out of normal range: 940000.0
+2190,43,female,93,2,930000.0,Unrealistic height: 2; BMI out of normal range: 930000.0
+2202,42,female,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+2203,42,female,751,2,7510000.0,Unrealistic weight: 751; Unrealistic height: 2; BMI out of normal range: 7510000.0
+2214,53,male,178,105,161.5,Unrealistic height: 105; BMI out of normal range: 161.5
+2217,62,male,140,2,1400000.0,Unrealistic height: 2; BMI out of normal range: 1400000.0
+2223,48,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+2231,64,male,105,2,1050000.0,Unrealistic height: 2; BMI out of normal range: 1050000.0
+2233,50,female,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+2234,27,male,86,2,860000.0,Unrealistic height: 2; BMI out of normal range: 860000.0
+2235,64,male,105,2,1050000.0,Unrealistic height: 2; BMI out of normal range: 1050000.0
+2236,27,male,86,2,860000.0,Unrealistic height: 2; BMI out of normal range: 860000.0
+2266,52,male,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+2268,52,male,96,2,960000.0,Unrealistic height: 2; BMI out of normal range: 960000.0
+2270,64,male,93,1780,0.3,Unrealistic height: 1780; BMI out of normal range: 0.3
+2275,64,male,93,1780,0.3,Unrealistic height: 1780; BMI out of normal range: 0.3
+2276,54,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+2282,57,male,110,2,1100000.0,Unrealistic height: 2; BMI out of normal range: 1100000.0
+2301,46,male,29,5190,1.9,Unrealistic height: 5190; BMI out of normal range: 1.9
+2302,53,male,115,2,1150000.0,Unrealistic height: 2; BMI out of normal range: 1150000.0
+2304,51,male,96,2,960000.0,Unrealistic height: 2; BMI out of normal range: 960000.0
+2309,46,female,105,2,1050000.0,Unrealistic height: 2; BMI out of normal range: 1050000.0
+2315,58,male,96,2,960000.0,Unrealistic height: 2; BMI out of normal range: 960000.0
+2318,46,female,57,64,139.2,Unrealistic height: 64; BMI out of normal range: 139.2
+2319,62,female,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+2327,30,male,86,2,860000.0,Unrealistic height: 2; BMI out of normal range: 860000.0
+2328,58,male,96,2,960000.0,Unrealistic height: 2; BMI out of normal range: 960000.0
+2339,61,male,103,2,1030000.0,Unrealistic height: 2; BMI out of normal range: 1030000.0
+2346,55,female,72,2,720000.0,Unrealistic height: 2; BMI out of normal range: 720000.0
+2348,30,female,24,4800,2.1,Unrealistic height: 4800; BMI out of normal range: 2.1
+2350,55,female,72,2,720000.0,Unrealistic height: 2; BMI out of normal range: 720000.0
+2360,51,male,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+2364,63,female,56,2,560000.0,Unrealistic height: 2; BMI out of normal range: 560000.0
+2368,51,male,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+2378,55,male,72,2,720000.0,Unrealistic height: 2; BMI out of normal range: 720000.0
+2384,55,male,72,2,720000.0,Unrealistic height: 2; BMI out of normal range: 720000.0
+2385,56,male,96,2,960000.0,Unrealistic height: 2; BMI out of normal range: 960000.0
+2391,59,male,100,2,1000000.0,Unrealistic height: 2; BMI out of normal range: 1000000.0
+2399,45,male,80,1607,0.3,Unrealistic height: 1607; BMI out of normal range: 0.3
+2403,75,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+2406,45,male,80,1607,0.3,Unrealistic height: 1607; BMI out of normal range: 0.3
+2414,48,female,67,2,670000.0,Unrealistic height: 2; BMI out of normal range: 670000.0
+2415,42,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+2416,44,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+2421,47,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+2438,72001,male,908,63290,0.2,Unrealistic age: 72001; Unrealistic weight: 908; Unrealistic height: 63290; BMI out of normal range: 0.2
+2443,58,female,65,2,650000.0,Unrealistic height: 2; BMI out of normal range: 650000.0
+2444,57,male,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+2446,57,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+2449,40,female,57,2,570000.0,Unrealistic height: 2; BMI out of normal range: 570000.0
+2450,57,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+2455,53,male,93,2,930000.0,Unrealistic height: 2; BMI out of normal range: 930000.0
+2459,42,male,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+2460,36,female,65,2,650000.0,Unrealistic height: 2; BMI out of normal range: 650000.0
+2461,52,female,100,2,1000000.0,Unrealistic height: 2; BMI out of normal range: 1000000.0
+2462,40,female,55,2,550000.0,Unrealistic height: 2; BMI out of normal range: 550000.0
+2464,70,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+2466,48,male,76,2,760000.0,Unrealistic height: 2; BMI out of normal range: 760000.0
+2468,55,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+2471,48,male,76,2,760000.0,Unrealistic height: 2; BMI out of normal range: 760000.0
+2473,48,male,76,1,760000.0,Unrealistic height: 1; BMI out of normal range: 760000.0
+2474,55,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+2490,50,male,84,2,840000.0,Unrealistic height: 2; BMI out of normal range: 840000.0
+2495,44,male,82,2,820000.0,Unrealistic height: 2; BMI out of normal range: 820000.0
+2496,52,male,113,113,88.5,Unrealistic height: 113; BMI out of normal range: 88.5
+2503,62,male,73,1760,0.2,Unrealistic height: 1760; BMI out of normal range: 0.2
+2507,55,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+2512,50,female,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+2517,46,male,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+2528,55,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+2531,41,female,54,2,540000.0,Unrealistic height: 2; BMI out of normal range: 540000.0
+2535,54,male,184,106,163.8,Unrealistic height: 106; BMI out of normal range: 163.8
+2536,46,female,51,2,510000.0,Unrealistic height: 2; BMI out of normal range: 510000.0
+2539,49,male,100,81,152.4,Unrealistic height: 81; BMI out of normal range: 152.4
+2548,54,female,73,2,730000.0,Unrealistic height: 2; BMI out of normal range: 730000.0
+2559,38,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+2563,24,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+2567,41,female,23,149,67.1,BMI out of normal range: 67.1
+2570,54,female,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+2581,41,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+2582,43,male,69,2,690000.0,Unrealistic height: 2; BMI out of normal range: 690000.0
+2586,45,male,97,2,970000.0,Unrealistic height: 2; BMI out of normal range: 970000.0
+2590,65,female,48,2,480000.0,Unrealistic height: 2; BMI out of normal range: 480000.0
+2591,50,male,96,2,960000.0,Unrealistic height: 2; BMI out of normal range: 960000.0
+2592,53,female,100,2,1000000.0,Unrealistic height: 2; BMI out of normal range: 1000000.0
+2593,48,male,72,2,720000.0,Unrealistic height: 2; BMI out of normal range: 720000.0
+2594,48,male,72,2,720000.0,Unrealistic height: 2; BMI out of normal range: 720000.0
+2605,42,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+2606,47,male,74,2,740000.0,Unrealistic height: 2; BMI out of normal range: 740000.0
+2615,48,male,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+2616,51,female,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+2617,52,female,85,2,850000.0,Unrealistic height: 2; BMI out of normal range: 850000.0
+2618,58,male,98,18,3024.7,Unrealistic height: 18; BMI out of normal range: 3024.7
+2619,26,female,63,2,630000.0,Unrealistic height: 2; BMI out of normal range: 630000.0
+2622,50,male,100,2,1000000.0,Unrealistic height: 2; BMI out of normal range: 1000000.0
+2625,57,male,101,2,1010000.0,Unrealistic height: 2; BMI out of normal range: 1010000.0
+2629,50,male,120,2000,0.3,Unrealistic height: 2000; BMI out of normal range: 0.3
+2636,24,male,73,500,2.9,Unrealistic height: 500; BMI out of normal range: 2.9
+2647,41,female,63,2,630000.0,Unrealistic height: 2; BMI out of normal range: 630000.0
+2663,46,male,93,2,930000.0,Unrealistic height: 2; BMI out of normal range: 930000.0
+2667,62,female,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+2668,49,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+2669,32,male,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+2673,31,male,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+2691,38,female,57,2,570000.0,Unrealistic height: 2; BMI out of normal range: 570000.0
+2693,38,female,57,2,570000.0,Unrealistic height: 2; BMI out of normal range: 570000.0
+2705,53,male,148,2,1480000.0,Unrealistic height: 2; BMI out of normal range: 1480000.0
+2711,57,male,85,2,850000.0,Unrealistic height: 2; BMI out of normal range: 850000.0
+2713,52,male,94,1690,0.3,Unrealistic height: 1690; BMI out of normal range: 0.3
+2715,45,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+2716,45,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+2719,70,male,791,168,280.3,Unrealistic weight: 791; BMI out of normal range: 280.3
+2721,49,male,94,2,940000.0,Unrealistic height: 2; BMI out of normal range: 940000.0
+2725,50,female,84,2,840000.0,Unrealistic height: 2; BMI out of normal range: 840000.0
+2731,54,male,92,2,920000.0,Unrealistic height: 2; BMI out of normal range: 920000.0
+2743,45,male,97,1078,0.8,Unrealistic height: 1078; BMI out of normal range: 0.8
+2750,55,male,65,2,650000.0,Unrealistic height: 2; BMI out of normal range: 650000.0
+2754,45,male,90,1800,0.3,Unrealistic height: 1800; BMI out of normal range: 0.3
+2756,49,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+2757,51,male,82,2,820000.0,Unrealistic height: 2; BMI out of normal range: 820000.0
+2758,46,female,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+2781,55,female,79,2,790000.0,Unrealistic height: 2; BMI out of normal range: 790000.0
+2788,57,female,41,163,61.3,BMI out of normal range: 61.3
+2791,55,male,98,2,980000.0,Unrealistic height: 2; BMI out of normal range: 980000.0
+2792,60,male,94,2,940000.0,Unrealistic height: 2; BMI out of normal range: 940000.0
+2793,60,male,94,2,940000.0,Unrealistic height: 2; BMI out of normal range: 940000.0
+2795,55,male,98,2,980000.0,Unrealistic height: 2; BMI out of normal range: 980000.0
+2797,51,female,68,158,63.3,BMI out of normal range: 63.3
+2802,20,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+2823,75,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+2825,44,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+2828,48,male,116,2,1160000.0,Unrealistic height: 2; BMI out of normal range: 1160000.0
+2829,51,male,65,2,650000.0,Unrealistic height: 2; BMI out of normal range: 650000.0
+2831,55,male,100,2,1000000.0,Unrealistic height: 2; BMI out of normal range: 1000000.0
+2832,55,male,100,2,1000000.0,Unrealistic height: 2; BMI out of normal range: 1000000.0
+2848,56,male,104,1820,0.3,Unrealistic height: 1820; BMI out of normal range: 0.3
+2854,41,male,103,1,1030000.0,Unrealistic height: 1; BMI out of normal range: 1030000.0
+2859,50,female,56,2,560000.0,Unrealistic height: 2; BMI out of normal range: 560000.0
+2861,50,female,56,2,560000.0,Unrealistic height: 2; BMI out of normal range: 560000.0
+2862,50,female,56,2,560000.0,Unrealistic height: 2; BMI out of normal range: 560000.0
+2864,70,male,75,18,2314.8,Unrealistic height: 18; BMI out of normal range: 2314.8
+2866,70,male,72,2,720000.0,Unrealistic height: 2; BMI out of normal range: 720000.0
+2884,18,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+2886,36,male,84,2,840000.0,Unrealistic height: 2; BMI out of normal range: 840000.0
+2896,51,female,65,2,650000.0,Unrealistic height: 2; BMI out of normal range: 650000.0
+2900,74,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+2903,49,male,82,76,142.0,Unrealistic height: 76; BMI out of normal range: 142.0
+2904,49,male,82,2,820000.0,Unrealistic height: 2; BMI out of normal range: 820000.0
+2905,40,female,61,2,610000.0,Unrealistic height: 2; BMI out of normal range: 610000.0
+2906,49,male,37,53,188.7,Unrealistic height: 53; BMI out of normal range: 188.7
+2907,51,male,100,2,1000000.0,Unrealistic height: 2; BMI out of normal range: 1000000.0
+2908,51,male,100,2,1000000.0,Unrealistic height: 2; BMI out of normal range: 1000000.0
+2909,51,male,100,2,1000000.0,Unrealistic height: 2; BMI out of normal range: 1000000.0
+2916,53,female,250,62,650.4,Unrealistic height: 62; BMI out of normal range: 650.4
+2924,46,male,92,2,920000.0,Unrealistic height: 2; BMI out of normal range: 920000.0
+2926,46,male,92,2,920000.0,Unrealistic height: 2; BMI out of normal range: 920000.0
+2929,66,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+2933,46,male,92,2,920000.0,Unrealistic height: 2; BMI out of normal range: 920000.0
+2934,46,male,92,2,920000.0,Unrealistic height: 2; BMI out of normal range: 920000.0
+2936,68,male,39,6085,1.6,Unrealistic height: 6085; BMI out of normal range: 1.6
+2962,54,female,89,158,63.3,BMI out of normal range: 63.3
+2963,31,female,88,125,80.0,BMI out of normal range: 80.0
+2964,54,female,89,158,63.3,BMI out of normal range: 63.3
+2965,31,female,79,125,80.0,BMI out of normal range: 80.0
+2970,52,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+2971,52,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+2973,43,female,98,165,60.6,BMI out of normal range: 60.6
+2986,41,female,54,2,540000.0,Unrealistic height: 2; BMI out of normal range: 540000.0
+2992,46,male,88,2,880000.0,Unrealistic height: 2; BMI out of normal range: 880000.0
+2993,46,male,88,2,880000.0,Unrealistic height: 2; BMI out of normal range: 880000.0
+2994,46,male,88,2,880000.0,Unrealistic height: 2; BMI out of normal range: 880000.0
+2998,57,female,76,2,760000.0,Unrealistic height: 2; BMI out of normal range: 760000.0
+3003,50,male,65,1800,0.2,Unrealistic height: 1800; BMI out of normal range: 0.2
+3006,38,male,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+3011,49,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+3012,57,male,115,2,1150000.0,Unrealistic height: 2; BMI out of normal range: 1150000.0
+3014,47,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+3037,38,male,86,2,860000.0,Unrealistic height: 2; BMI out of normal range: 860000.0
+3039,50,male,83,2,830000.0,Unrealistic height: 2; BMI out of normal range: 830000.0
+3041,15,male,47,2,470000.0,Unrealistic height: 2; BMI out of normal range: 470000.0
+3045,60,male,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+3055,51,male,74,2,740000.0,Unrealistic height: 2; BMI out of normal range: 740000.0
+3061,14,female,24,55,181.8,Unrealistic height: 55; BMI out of normal range: 181.8
+3063,11,male,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+3068,50,female,85,2,850000.0,Unrealistic height: 2; BMI out of normal range: 850000.0
+3073,23,female,72,2,710000.0,Unrealistic height: 2; BMI out of normal range: 710000.0
+3075,15,female,110,2,1100000.0,Unrealistic height: 2; BMI out of normal range: 1100000.0
+3076,27,female,63,2,630000.0,Unrealistic height: 2; BMI out of normal range: 630000.0
+3077,35,female,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+3079,40,male,115,2,1150000.0,Unrealistic height: 2; BMI out of normal range: 1150000.0
+3080,27,female,63,2,630000.0,Unrealistic height: 2; BMI out of normal range: 630000.0
+3083,18,female,49,2,490000.0,Unrealistic height: 2; BMI out of normal range: 490000.0
+3087,44,male,88,2,880000.0,Unrealistic height: 2; BMI out of normal range: 880000.0
+3091,35,female,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+3094,57,female,68,2,680000.0,Unrealistic height: 2; BMI out of normal range: 680000.0
+3095,36,female,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+3100,44,male,88,2,880000.0,Unrealistic height: 2; BMI out of normal range: 880000.0
+3109,13,female,53,2,530000.0,Unrealistic height: 2; BMI out of normal range: 530000.0
+3123,49,male,71,1680,0.3,Unrealistic height: 1680; BMI out of normal range: 0.3
+3126,50,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+3131,51,female,84,60,233.3,Unrealistic height: 60; BMI out of normal range: 233.3
+3140,60,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+3141,39,male,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+3145,51,male,86,84,121.9,Unrealistic height: 84; BMI out of normal range: 121.9
+3146,50,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+3152,57,female,68,2,680000.0,Unrealistic height: 2; BMI out of normal range: 680000.0
+3156,57,female,68,2,680000.0,Unrealistic height: 2; BMI out of normal range: 680000.0
+3158,50,female,94,2,940000.0,Unrealistic height: 2; BMI out of normal range: 940000.0
+3166,49,male,71,1680,0.3,Unrealistic height: 1680; BMI out of normal range: 0.3
+3170,65,male,99,2,990000.0,Unrealistic height: 2; BMI out of normal range: 990000.0
+3174,27,female,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+3175,16,female,87,2,870000.0,Unrealistic height: 2; BMI out of normal range: 870000.0
+3179,54,male,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+3186,57,female,93,2,930000.0,Unrealistic height: 2; BMI out of normal range: 930000.0
+3202,19,female,44,2,440000.0,Unrealistic height: 2; BMI out of normal range: 440000.0
+3203,50,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+3215,14,male,45,2,450000.0,Unrealistic height: 2; BMI out of normal range: 450000.0
+3228,17,male,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+3230,14,male,45,2,450000.0,Unrealistic height: 2; BMI out of normal range: 450000.0
+3233,14,male,45,2,450000.0,Unrealistic height: 2; BMI out of normal range: 450000.0
+3240,57,female,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+3243,50,female,86,2,860000.0,Unrealistic height: 2; BMI out of normal range: 860000.0
+3245,48,male,79,2,790000.0,Unrealistic height: 2; BMI out of normal range: 790000.0
+3248,50,female,86,2,860000.0,Unrealistic height: 2; BMI out of normal range: 860000.0
+3249,46,female,73,2,730000.0,Unrealistic height: 2; BMI out of normal range: 730000.0
+3252,61,male,77,2,770000.0,Unrealistic height: 2; BMI out of normal range: 770000.0
+3258,18,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+3277,36,female,62,2,620000.0,Unrealistic height: 2; BMI out of normal range: 620000.0
+3279,52,female,79,74,144.3,Unrealistic height: 74; BMI out of normal range: 144.3
+3283,40,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+3286,24,female,26,5081,2.0,Unrealistic height: 5081; BMI out of normal range: 2.0
+3317,18,male,18,9766,1.0,Unrealistic weight: 18; Unrealistic height: 9766; BMI out of normal range: 1.0
+3323,56,male,84,2,840000.0,Unrealistic height: 2; BMI out of normal range: 840000.0
+3327,11,male,14,1015,9.9,Unrealistic weight: 14; Unrealistic height: 1015; BMI out of normal range: 9.9
+3329,16,female,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+3335,11,male,0,33,303.0,Unrealistic weight: 0; Unrealistic height: 33; BMI out of normal range: 303.0
+3338,15,male,45,2,450000.0,Unrealistic height: 2; BMI out of normal range: 450000.0
+3342,15,male,45,2,450000.0,Unrealistic height: 2; BMI out of normal range: 450000.0
+3343,39,female,54,2,540000.0,Unrealistic height: 2; BMI out of normal range: 540000.0
+3352,18,male,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+3354,18,male,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+3363,2048,male,281,27344,0.4,Unrealistic age: 2048; Unrealistic height: 27344; BMI out of normal range: 0.4
+3372,41,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+3374,27,female,55,2,550000.0,Unrealistic height: 2; BMI out of normal range: 550000.0
+3379,36,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+3385,34,male,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+3388,27,female,54,2,540000.0,Unrealistic height: 2; BMI out of normal range: 540000.0
+3391,20,male,108,2,1080000.0,Unrealistic height: 2; BMI out of normal range: 1080000.0
+3392,48,female,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+3397,12,female,35,1,350000.0,Unrealistic height: 1; BMI out of normal range: 350000.0
+3403,19840809,male,106,176,34.2,"Unrealistic age: 19840809; Suspicious elderly obesity: age 19840809.0, BMI 34.2"
+3404,18,female,62,2,620000.0,Unrealistic height: 2; BMI out of normal range: 620000.0
+3405,50,male,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+3408,44,male,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+3413,45,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+3416,46,female,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+3422,19840809,male,106,176,34.2,"Unrealistic age: 19840809; Suspicious elderly obesity: age 19840809.0, BMI 34.2"
+3424,18,male,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+3431,47,female,63,2,630000.0,Unrealistic height: 2; BMI out of normal range: 630000.0
+3434,17,male,80,1,800000.0,Unrealistic height: 1; BMI out of normal range: 800000.0
+3440,47,male,2,92,1.2,Unrealistic weight: 2; Unrealistic height: 92; BMI out of normal range: 1.2
+3449,46,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+3453,55,male,108,2,1080000.0,Unrealistic height: 2; BMI out of normal range: 1080000.0
+3458,112,male,123,123,81.3,"BMI out of normal range: 81.3; Suspicious elderly obesity: age 112.0, BMI 81.3"
+3459,43,male,110,1983,0.3,Unrealistic height: 1983; BMI out of normal range: 0.3
+3462,123,male,123,123,81.3,"Unrealistic age: 123; BMI out of normal range: 81.3; Suspicious elderly obesity: age 123.0, BMI 81.3"
+3463,51,male,67,2,670000.0,Unrealistic height: 2; BMI out of normal range: 670000.0
+3467,75,female,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+3468,18,female,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+3470,44,female,68,2,680000.0,Unrealistic height: 2; BMI out of normal range: 680000.0
+3471,17,female,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+3477,17,female,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+3480,17,male,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+3481,65,female,70,1500,0.3,Unrealistic height: 1500; BMI out of normal range: 0.3
+3494,44,female,82,2,820000.0,Unrealistic height: 2; BMI out of normal range: 820000.0
+3504,38,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+3511,46,male,83,2,830000.0,Unrealistic height: 2; BMI out of normal range: 830000.0
+3515,49,male,67,2,670000.0,Unrealistic height: 2; BMI out of normal range: 670000.0
+3517,54,male,66,2,660000.0,Unrealistic height: 2; BMI out of normal range: 660000.0
+3521,34,female,40,2,400000.0,Unrealistic height: 2; BMI out of normal range: 400000.0
+3532,25,female,170,160,66.4,BMI out of normal range: 66.4
+3540,11,male,69,2,690000.0,Unrealistic height: 2; BMI out of normal range: 690000.0
+3543,23,female,79,2,790000.0,Unrealistic height: 2; BMI out of normal range: 790000.0
+3546,45,male,72,2,720000.0,Unrealistic height: 2; BMI out of normal range: 720000.0
+3550,29,female,64,2,640000.0,Unrealistic height: 2; BMI out of normal range: 640000.0
+3551,43,female,80,67,178.2,Unrealistic height: 67; BMI out of normal range: 178.2
+3552,45,female,41,47,212.8,Unrealistic height: 47; BMI out of normal range: 212.8
+3556,68,male,61,72,117.7,Unrealistic height: 72; BMI out of normal range: 117.7
+3558,55,female,100,2,1000000.0,Unrealistic height: 2; BMI out of normal range: 1000000.0
+3563,29,female,64,2,640000.0,Unrealistic height: 2; BMI out of normal range: 640000.0
+3567,12,male,56,2,560000.0,Unrealistic height: 2; BMI out of normal range: 560000.0
+3568,37,female,120,2,1200000.0,Unrealistic height: 2; BMI out of normal range: 1200000.0
+3575,46,female,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+3577,37,female,120,2,1200000.0,Unrealistic height: 2; BMI out of normal range: 1200000.0
+3588,35,female,58,2,580000.0,Unrealistic height: 2; BMI out of normal range: 580000.0
+3591,44,male,68,2,680000.0,Unrealistic height: 2; BMI out of normal range: 680000.0
+3600,37,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+3617,47,male,104,2,1040000.0,Unrealistic height: 2; BMI out of normal range: 1040000.0
+3620,43,female,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+3626,55,male,81,2,810000.0,Unrealistic height: 2; BMI out of normal range: 810000.0
+3627,52,male,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+3631,39,male,89,2,890000.0,Unrealistic height: 2; BMI out of normal range: 890000.0
+3639,45,male,108,2,1080000.0,Unrealistic height: 2; BMI out of normal range: 1080000.0
+3650,24,female,39,2,390000.0,Unrealistic height: 2; BMI out of normal range: 390000.0
+3651,51,male,112,2,1120000.0,Unrealistic height: 2; BMI out of normal range: 1120000.0
+3653,11,male,37,1,370000.0,Unrealistic height: 1; BMI out of normal range: 370000.0
+3656,30,male,56,2,560000.0,Unrealistic height: 2; BMI out of normal range: 560000.0
+3665,11,male,37,1,370000.0,Unrealistic height: 1; BMI out of normal range: 370000.0
+3668,31,female,77,2,770000.0,Unrealistic height: 2; BMI out of normal range: 770000.0
+3673,24,female,39,2,390000.0,Unrealistic height: 2; BMI out of normal range: 390000.0
+3674,16,male,54,2,540000.0,Unrealistic height: 2; BMI out of normal range: 540000.0
+3676,45,female,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+3682,16,male,56,2,560000.0,Unrealistic height: 2; BMI out of normal range: 560000.0
+3691,35,female,49,2,490000.0,Unrealistic height: 2; BMI out of normal range: 490000.0
+3692,69,male,83,2,830000.0,Unrealistic height: 2; BMI out of normal range: 830000.0
+3705,16,male,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+3706,52,male,36,5571,1.8,Unrealistic height: 5571; BMI out of normal range: 1.8
+3710,16,male,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+3711,18,female,65,2,650000.0,Unrealistic height: 2; BMI out of normal range: 650000.0
+3714,23,female,55,2,550000.0,Unrealistic height: 2; BMI out of normal range: 550000.0
+3721,57,male,95,1780,0.3,Unrealistic height: 1780; BMI out of normal range: 0.3
+3727,23,female,55,2,550000.0,Unrealistic height: 2; BMI out of normal range: 550000.0
+3731,52,male,37,5792,1.7,Unrealistic height: 5792; BMI out of normal range: 1.7
+3736,45,female,66,2,660000.0,Unrealistic height: 2; BMI out of normal range: 660000.0
+3738,35,female,56,2,560000.0,Unrealistic height: 2; BMI out of normal range: 560000.0
+3745,54,female,59,2,590000.0,Unrealistic height: 2; BMI out of normal range: 590000.0
+3754,12,male,38,2,380000.0,Unrealistic height: 2; BMI out of normal range: 380000.0
+3759,54,female,59,2,590000.0,Unrealistic height: 2; BMI out of normal range: 590000.0
+3764,55,male,98,1700,0.3,Unrealistic height: 1700; BMI out of normal range: 0.3
+3765,8,female,27,1,270000.0,Unrealistic height: 1; BMI out of normal range: 270000.0
+3776,53,male,107,2,1070000.0,Unrealistic height: 2; BMI out of normal range: 1070000.0
+3780,16,female,48,2,480000.0,Unrealistic height: 2; BMI out of normal range: 480000.0
+3789,18,male,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+3798,53,male,49,5100,2.0,Unrealistic height: 5100; BMI out of normal range: 2.0
+3799,18,male,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+3801,35,female,82,2,820000.0,Unrealistic height: 2; BMI out of normal range: 820000.0
+3802,17,male,63,2,630000.0,Unrealistic height: 2; BMI out of normal range: 630000.0
+3804,18,female,40,2,400000.0,Unrealistic height: 2; BMI out of normal range: 400000.0
+3805,15,male,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+3806,17,male,63,2,630000.0,Unrealistic height: 2; BMI out of normal range: 630000.0
+3807,44,male,85,2,850000.0,Unrealistic height: 2; BMI out of normal range: 850000.0
+3820,34,male,94,2,930000.0,Unrealistic height: 2; BMI out of normal range: 930000.0
+3823,24,male,19,5047,2.0,Unrealistic weight: 19; Unrealistic height: 5047; BMI out of normal range: 2.0
+3831,48,female,46,2,460000.0,Unrealistic height: 2; BMI out of normal range: 460000.0
+3842,13,male,99999,100,99999.0,Unrealistic weight: 99999; Unrealistic height: 100; BMI out of normal range: 99999.0
+3843,31,female,54,2,540000.0,Unrealistic height: 2; BMI out of normal range: 540000.0
+3850,44,female,110,65,260.4,Unrealistic height: 65; BMI out of normal range: 260.4
+3859,45,female,61,2,610000.0,Unrealistic height: 2; BMI out of normal range: 610000.0
+3860,44,female,110,65,260.4,Unrealistic height: 65; BMI out of normal range: 260.4
+3864,33,female,30,1590,6.3,Unrealistic height: 1590; BMI out of normal range: 6.3
+3877,36,female,67,2,670000.0,Unrealistic height: 2; BMI out of normal range: 670000.0
+3887,15,male,52,2,520000.0,Unrealistic height: 2; BMI out of normal range: 520000.0
+3889,11,male,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+3892,50,male,58,2,580000.0,Unrealistic height: 2; BMI out of normal range: 580000.0
+3895,29,male,48,4993,2.0,Unrealistic height: 4993; BMI out of normal range: 2.0
+3900,25,male,73,2,730000.0,Unrealistic height: 2; BMI out of normal range: 730000.0
+3904,47,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+3905,29,male,48,5369,1.9,Unrealistic height: 5369; BMI out of normal range: 1.9
+3912,13,male,49,2,490000.0,Unrealistic height: 2; BMI out of normal range: 490000.0
+3915,54,female,176,170,60.9,BMI out of normal range: 60.9
+3921,30,female,49,2,490000.0,Unrealistic height: 2; BMI out of normal range: 490000.0
+3925,30,female,49,2,490000.0,Unrealistic height: 2; BMI out of normal range: 490000.0
+3926,13,male,54,2,540000.0,Unrealistic height: 2; BMI out of normal range: 540000.0
+3933,15,female,65,2,650000.0,Unrealistic height: 2; BMI out of normal range: 650000.0
+3935,55,female,681,160,266.0,Unrealistic weight: 681; BMI out of normal range: 266.0
+3937,18,female,56,2,560000.0,Unrealistic height: 2; BMI out of normal range: 560000.0
+3939,18,female,56,2,560000.0,Unrealistic height: 2; BMI out of normal range: 560000.0
+3943,45,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+3958,19,female,100,2,1000000.0,Unrealistic height: 2; BMI out of normal range: 1000000.0
+3969,42,female,58,2,580000.0,Unrealistic height: 2; BMI out of normal range: 580000.0
+3971,40,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+3981,18,female,117,2,1170000.0,Unrealistic height: 2; BMI out of normal range: 1170000.0
+3983,42,female,58,2,580000.0,Unrealistic height: 2; BMI out of normal range: 580000.0
+3985,44,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+3990,44,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+3996,52,female,31,5206,1.9,Unrealistic height: 5206; BMI out of normal range: 1.9
+4004,50,male,74,70,151.0,Unrealistic height: 70; BMI out of normal range: 151.0
+4006,26,male,83,2,830000.0,Unrealistic height: 2; BMI out of normal range: 830000.0
+4013,17,female,55,2,550000.0,Unrealistic height: 2; BMI out of normal range: 550000.0
+4015,42,male,130,2,1300000.0,Unrealistic height: 2; BMI out of normal range: 1300000.0
+4016,59,male,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+4019,17,female,55,2,550000.0,Unrealistic height: 2; BMI out of normal range: 550000.0
+4025,58,male,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+4027,29,female,66,2,660000.0,Unrealistic height: 2; BMI out of normal range: 660000.0
+4029,19,female,63,2,630000.0,Unrealistic height: 2; BMI out of normal range: 630000.0
+4047,41,female,71,2,710000.0,Unrealistic height: 2; BMI out of normal range: 710000.0
+4048,37,female,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+4053,17,male,52,2,520000.0,Unrealistic height: 2; BMI out of normal range: 520000.0
+4056,17,male,24,53,188.7,Unrealistic height: 53; BMI out of normal range: 188.7
+4065,29,female,49,2,490000.0,Unrealistic height: 2; BMI out of normal range: 490000.0
+4068,53,female,86,2,860000.0,Unrealistic height: 2; BMI out of normal range: 860000.0
+4073,14,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+4074,45,female,60,17,2343.8,Unrealistic height: 17; BMI out of normal range: 2343.8
+4079,14,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+4083,38,male,92,2,920000.0,Unrealistic height: 2; BMI out of normal range: 920000.0
+4085,44,female,89,2,890000.0,Unrealistic height: 2; BMI out of normal range: 890000.0
+4088,35,female,94,2,940000.0,Unrealistic height: 2; BMI out of normal range: 940000.0
+4093,23,female,72,2,720000.0,Unrealistic height: 2; BMI out of normal range: 720000.0
+4094,13,male,1000,2,10000000.0,Unrealistic weight: 1000; Unrealistic height: 2; BMI out of normal range: 10000000.0
+4095,53,female,86,2,860000.0,Unrealistic height: 2; BMI out of normal range: 860000.0
+4099,35,female,94,2,940000.0,Unrealistic height: 2; BMI out of normal range: 940000.0
+4101,28,male,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+4103,54,female,68,2,680000.0,Unrealistic height: 2; BMI out of normal range: 680000.0
+4126,17,male,104,2,1040000.0,Unrealistic height: 2; BMI out of normal range: 1040000.0
+4134,50,female,110,56,350.8,Unrealistic height: 56; BMI out of normal range: 350.8
+4135,55,male,87,2,870000.0,Unrealistic height: 2; BMI out of normal range: 870000.0
+4150,22,female,56,2,560000.0,Unrealistic height: 2; BMI out of normal range: 560000.0
+4151,56,female,63,158,63.3,BMI out of normal range: 63.3
+4153,58,male,45,305,32.8,Unrealistic height: 305
+4162,73,male,94,2,940000.0,Unrealistic height: 2; BMI out of normal range: 940000.0
+4164,19,female,55,2,550000.0,Unrealistic height: 2; BMI out of normal range: 550000.0
+4166,19,female,55,2,550000.0,Unrealistic height: 2; BMI out of normal range: 550000.0
+4173,52,female,65,2,650000.0,Unrealistic height: 2; BMI out of normal range: 650000.0
+4175,45,female,30,5100,2.0,Unrealistic height: 5100; BMI out of normal range: 2.0
+4177,45,female,30,5532,1.8,Unrealistic height: 5532; BMI out of normal range: 1.8
+4184,20,male,115,2,1150000.0,Unrealistic height: 2; BMI out of normal range: 1150000.0
+4185,33,male,65,2,650000.0,Unrealistic height: 2; BMI out of normal range: 650000.0
+4187,20,male,120,2,1200000.0,Unrealistic height: 2; BMI out of normal range: 1200000.0
+4189,33,male,65,2,650000.0,Unrealistic height: 2; BMI out of normal range: 650000.0
+4190,50,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+4196,44,male,39,5220,1.9,Unrealistic height: 5220; BMI out of normal range: 1.9
+4206,39,male,76,2,760000.0,Unrealistic height: 2; BMI out of normal range: 760000.0
+4208,57,female,170,150,75.6,BMI out of normal range: 75.6
+4209,54,female,120,1580,0.5,Unrealistic height: 1580; BMI out of normal range: 0.5
+4210,18,male,73,5025,2.0,Unrealistic height: 5025; BMI out of normal range: 2.0
+4224,18,male,29,5025,2.0,Unrealistic height: 5025; BMI out of normal range: 2.0
+4227,50,female,24,5109,2.0,Unrealistic height: 5109; BMI out of normal range: 2.0
+4230,49,female,79,2,790000.0,Unrealistic height: 2; BMI out of normal range: 790000.0
+4231,14,male,44,2,440000.0,Unrealistic height: 2; BMI out of normal range: 440000.0
+4238,61,female,29,4500,2.2,Unrealistic height: 4500; BMI out of normal range: 2.2
+4244,18,female,58,2,580000.0,Unrealistic height: 2; BMI out of normal range: 580000.0
+4250,18,female,58,2,580000.0,Unrealistic height: 2; BMI out of normal range: 580000.0
+4254,22,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+4255,19,female,58,2,580000.0,Unrealistic height: 2; BMI out of normal range: 580000.0
+4259,49,female,72,2,720000.0,Unrealistic height: 2; BMI out of normal range: 720000.0
+4260,22,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+4264,18,female,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+4268,47,male,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+4270,30,male,85,2,850000.0,Unrealistic height: 2; BMI out of normal range: 850000.0
+4281,35,female,36,4800,2.1,Unrealistic height: 4800; BMI out of normal range: 2.1
+4306,49,male,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+4310,52,female,34,5532,1.8,Unrealistic height: 5532; BMI out of normal range: 1.8
+4315,51,male,89,2,890000.0,Unrealistic height: 2; BMI out of normal range: 890000.0
+4323,22,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+4324,64,female,77,2,770000.0,Unrealistic height: 2; BMI out of normal range: 770000.0
+4334,54,female,83,2,830000.0,Unrealistic height: 2; BMI out of normal range: 830000.0
+4335,17,male,60,15,2666.7,Unrealistic height: 15; BMI out of normal range: 2666.7
+4338,54,female,83,2,830000.0,Unrealistic height: 2; BMI out of normal range: 830000.0
+4339,17,male,60,15,2666.7,Unrealistic height: 15; BMI out of normal range: 2666.7
+4341,70,male,84,2,840000.0,Unrealistic height: 2; BMI out of normal range: 840000.0
+4343,47,female,99,2,990000.0,Unrealistic height: 2; BMI out of normal range: 990000.0
+4344,55,male,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+4348,20,male,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+4352,57,female,76,2,760000.0,Unrealistic height: 2; BMI out of normal range: 760000.0
+4353,57,female,76,2,760000.0,Unrealistic height: 2; BMI out of normal range: 760000.0
+4354,39,female,45,2,450000.0,Unrealistic height: 2; BMI out of normal range: 450000.0
+4356,27,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+4361,44,male,87,2,870000.0,Unrealistic height: 2; BMI out of normal range: 870000.0
+4374,45,male,7,165,2.6,Unrealistic weight: 7; BMI out of normal range: 2.6
+4377,14,male,54,2,540000.0,Unrealistic height: 2; BMI out of normal range: 540000.0
+4382,38,female,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+4384,45,female,91,63,229.3,Unrealistic height: 63; BMI out of normal range: 229.3
+4387,34,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+4388,45,female,91,65,215.4,Unrealistic height: 65; BMI out of normal range: 215.4
+4394,77,male,93,2,930000.0,Unrealistic height: 2; BMI out of normal range: 930000.0
+4397,21,female,124,124,80.6,BMI out of normal range: 80.6
+4398,11,male,23,145,10.9,BMI out of normal range: 10.9
+4400,59,male,87,2,870000.0,Unrealistic height: 2; BMI out of normal range: 870000.0
+4401,1991,male,75,175,24.5,Unrealistic age: 1991
+4406,29,female,93,15,4133.3,Unrealistic height: 15; BMI out of normal range: 4133.3
+4407,55,female,83,2,830000.0,Unrealistic height: 2; BMI out of normal range: 830000.0
+4408,1991,male,75,175,24.5,Unrealistic age: 1991
+4410,29,female,93,15,4133.3,Unrealistic height: 15; BMI out of normal range: 4133.3
+4411,53,male,92,2,920000.0,Unrealistic height: 2; BMI out of normal range: 920000.0
+4412,53,male,92,2,920000.0,Unrealistic height: 2; BMI out of normal range: 920000.0
+4421,15,male,64,73,120.1,Unrealistic height: 73; BMI out of normal range: 120.1
+4427,44,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+4429,6,female,19,116,14.1,Unrealistic weight: 19; Unrealistic height: 116
+4436,51,female,65,2,650000.0,Unrealistic height: 2; BMI out of normal range: 650000.0
+4438,1991,male,75,175,24.5,Unrealistic age: 1991
+4440,47,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+4441,1991,male,75,175,24.5,Unrealistic age: 1991
+4443,1991,male,75,175,24.5,Unrealistic age: 1991
+4445,68,male,71,2,710000.0,Unrealistic height: 2; BMI out of normal range: 710000.0
+4448,70,female,30,157,63.7,BMI out of normal range: 63.7
+4453,69,female,907,160,354.3,Unrealistic weight: 907; BMI out of normal range: 354.3
+4459,57,male,107,2,1070000.0,Unrealistic height: 2; BMI out of normal range: 1070000.0
+4462,17,female,61,2,610000.0,Unrealistic height: 2; BMI out of normal range: 610000.0
+4463,30,male,50,108,42.9,Unrealistic height: 108
+4467,52,male,97,1780,0.3,Unrealistic height: 1780; BMI out of normal range: 0.3
+4469,21,male,55,2,550000.0,Unrealistic height: 2; BMI out of normal range: 550000.0
+4482,74,male,37,4830,2.1,Unrealistic height: 4830; BMI out of normal range: 2.1
+4485,52,male,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+4488,52,male,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+4505,44,female,94,2,940000.0,Unrealistic height: 2; BMI out of normal range: 940000.0
+4508,24,female,48,2,480000.0,Unrealistic height: 2; BMI out of normal range: 480000.0
+4511,55,male,82,2,820000.0,Unrealistic height: 2; BMI out of normal range: 820000.0
+4512,24,female,48,2,480000.0,Unrealistic height: 2; BMI out of normal range: 480000.0
+4518,53,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+4520,51,male,92,2,920000.0,Unrealistic height: 2; BMI out of normal range: 920000.0
+4522,33,male,209,230,39.5,Unrealistic height: 230
+4524,100,female,300,300,33.3,"Unrealistic height: 300; Suspicious elderly obesity: age 100.0, BMI 33.3"
+4528,300,female,5,700,0.1,Unrealistic age: 300; Unrealistic weight: 5; Unrealistic height: 700; BMI out of normal range: 0.1
+4544,41,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+4546,41,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+4547,32,female,63,2,630000.0,Unrealistic height: 2; BMI out of normal range: 630000.0
+4555,41,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+4556,47,female,49,2,490000.0,Unrealistic height: 2; BMI out of normal range: 490000.0
+4558,45,male,83,2,830000.0,Unrealistic height: 2; BMI out of normal range: 830000.0
+4565,60,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+4570,11,female,29,1,290000.0,Unrealistic height: 1; BMI out of normal range: 290000.0
+4574,64,male,50,5250,1.9,Unrealistic height: 5250; BMI out of normal range: 1.9
+4577,43,male,83,2,830000.0,Unrealistic height: 2; BMI out of normal range: 830000.0
+4584,65,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+4590,47,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+4599,67,male,99,2,990000.0,Unrealistic height: 2; BMI out of normal range: 990000.0
+4602,43,male,97,2,970000.0,Unrealistic height: 2; BMI out of normal range: 970000.0
+4611,44,male,88,2,880000.0,Unrealistic height: 2; BMI out of normal range: 880000.0
+4612,11,female,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+4620,46,male,81,70,165.3,Unrealistic height: 70; BMI out of normal range: 165.3
+4628,38,female,76,2,760000.0,Unrealistic height: 2; BMI out of normal range: 760000.0
+4632,36,female,52,58,154.6,Unrealistic height: 58; BMI out of normal range: 154.6
+4641,18,female,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+4646,70,female,30,157,63.7,BMI out of normal range: 63.7
+4658,57,female,79,2,790000.0,Unrealistic height: 2; BMI out of normal range: 790000.0
+4661,55,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+4663,58,male,93,2,930000.0,Unrealistic height: 2; BMI out of normal range: 930000.0
+4664,58,male,93,2,930000.0,Unrealistic height: 2; BMI out of normal range: 930000.0
+4666,55,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+4668,42,male,62,2,620000.0,Unrealistic height: 2; BMI out of normal range: 620000.0
+4671,43,male,67,2,670000.0,Unrealistic height: 2; BMI out of normal range: 670000.0
+4676,42,male,65,2,650000.0,Unrealistic height: 2; BMI out of normal range: 650000.0
+4686,59,male,85,2,850000.0,Unrealistic height: 2; BMI out of normal range: 850000.0
+4688,21,male,120,2,1200000.0,Unrealistic height: 2; BMI out of normal range: 1200000.0
+4689,59,male,85,2,850000.0,Unrealistic height: 2; BMI out of normal range: 850000.0
+4693,19,female,54,2,540000.0,Unrealistic height: 2; BMI out of normal range: 540000.0
+4700,42,female,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+4701,6,male,20,1200,0.1,Unrealistic height: 1200; BMI out of normal range: 0.1
+4702,33,female,69,2,690000.0,Unrealistic height: 2; BMI out of normal range: 690000.0
+4706,40,female,100,2,1000000.0,Unrealistic height: 2; BMI out of normal range: 1000000.0
+4710,10,female,61,2,610000.0,Unrealistic height: 2; BMI out of normal range: 610000.0
+4711,38,male,72,2,720000.0,Unrealistic height: 2; BMI out of normal range: 720000.0
+4712,29,female,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+4713,10,female,61,2,610000.0,Unrealistic height: 2; BMI out of normal range: 610000.0
+4714,27,male,66,2,660000.0,Unrealistic height: 2; BMI out of normal range: 660000.0
+4715,29,female,96,2,960000.0,Unrealistic height: 2; BMI out of normal range: 960000.0
+4717,14,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+4718,38,male,72,2,720000.0,Unrealistic height: 2; BMI out of normal range: 720000.0
+4728,22,male,702,2,7020000.0,Unrealistic weight: 702; Unrealistic height: 2; BMI out of normal range: 7020000.0
+4731,22,male,754,2,7540000.0,Unrealistic weight: 754; Unrealistic height: 2; BMI out of normal range: 7540000.0
+4740,18,female,30,2,300000.0,Unrealistic height: 2; BMI out of normal range: 300000.0
+4742,47,female,106,2,1060000.0,Unrealistic height: 2; BMI out of normal range: 1060000.0
+4746,18,female,30,2,300000.0,Unrealistic height: 2; BMI out of normal range: 300000.0
+4747,14,male,53,2,530000.0,Unrealistic height: 2; BMI out of normal range: 530000.0
+4754,58,female,54,163,61.3,BMI out of normal range: 61.3
+4756,40,female,96,2,960000.0,Unrealistic height: 2; BMI out of normal range: 960000.0
+4757,58,female,54,163,61.3,BMI out of normal range: 61.3
+4762,38,male,72,2,720000.0,Unrealistic height: 2; BMI out of normal range: 720000.0
+4764,47,male,94,18,2901.2,Unrealistic height: 18; BMI out of normal range: 2901.2
+4768,38,male,72,2,720000.0,Unrealistic height: 2; BMI out of normal range: 720000.0
+4773,48,male,98,2,980000.0,Unrealistic height: 2; BMI out of normal range: 980000.0
+4774,10,female,61,2,610000.0,Unrealistic height: 2; BMI out of normal range: 610000.0
+4776,36,female,45,2,450000.0,Unrealistic height: 2; BMI out of normal range: 450000.0
+4796,68,female,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+4799,50,male,74,2,740000.0,Unrealistic height: 2; BMI out of normal range: 740000.0
+4809,56,male,98,2,980000.0,Unrealistic height: 2; BMI out of normal range: 980000.0
+4820,71,male,114,2,1140000.0,Unrealistic height: 2; BMI out of normal range: 1140000.0
+4822,58,female,65,2,650000.0,Unrealistic height: 2; BMI out of normal range: 650000.0
+4829,43,male,83,2,830000.0,Unrealistic height: 2; BMI out of normal range: 830000.0
+4833,54,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+4835,9,male,208,110,171.9,Unrealistic height: 110; BMI out of normal range: 171.9
+4838,36,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+4842,36,female,58,2,580000.0,Unrealistic height: 2; BMI out of normal range: 580000.0
+4848,51,male,140,1780,0.4,Unrealistic height: 1780; BMI out of normal range: 0.4
+4853,36,female,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+4858,37,male,118,2,1180000.0,Unrealistic height: 2; BMI out of normal range: 1180000.0
+4871,38,female,59,2,580000.0,Unrealistic height: 2; BMI out of normal range: 580000.0
+4873,43,male,136,2,1360000.0,Unrealistic height: 2; BMI out of normal range: 1360000.0
+4877,43,male,136,2,1360000.0,Unrealistic height: 2; BMI out of normal range: 1360000.0
+4888,42,male,65,2,650000.0,Unrealistic height: 2; BMI out of normal range: 650000.0
+4889,57,male,104,2,1040000.0,Unrealistic height: 2; BMI out of normal range: 1040000.0
+4892,57,male,104,2,1040000.0,Unrealistic height: 2; BMI out of normal range: 1040000.0
+4894,58,female,89,2,890000.0,Unrealistic height: 2; BMI out of normal range: 890000.0
+4898,24,female,27,50,200.0,Unrealistic height: 50; BMI out of normal range: 200.0
+4902,40,female,65,2,650000.0,Unrealistic height: 2; BMI out of normal range: 650000.0
+4905,11,female,31,1,310000.0,Unrealistic height: 1; BMI out of normal range: 310000.0
+4909,57,female,61,62,158.7,Unrealistic height: 62; BMI out of normal range: 158.7
+4912,44,female,74,2,740000.0,Unrealistic height: 2; BMI out of normal range: 740000.0
+4920,12,male,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+4921,33,female,62,2,620000.0,Unrealistic height: 2; BMI out of normal range: 620000.0
+4923,28,female,53,1,530000.0,Unrealistic height: 1; BMI out of normal range: 530000.0
+4925,62,female,68,2,680000.0,Unrealistic height: 2; BMI out of normal range: 680000.0
+4926,51,male,125,1970,0.3,Unrealistic height: 1970; BMI out of normal range: 0.3
+4929,60,male,103,2,1030000.0,Unrealistic height: 2; BMI out of normal range: 1030000.0
+4933,19,female,63,2,630000.0,Unrealistic height: 2; BMI out of normal range: 630000.0
+4934,12,female,35,1,350000.0,Unrealistic height: 1; BMI out of normal range: 350000.0
+4938,62,female,69,1590,0.3,Unrealistic height: 1590; BMI out of normal range: 0.3
+4940,9,male,28,1,280000.0,Unrealistic height: 1; BMI out of normal range: 280000.0
+4941,9,male,28,1,280000.0,Unrealistic height: 1; BMI out of normal range: 280000.0
+4944,12,male,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+4949,36,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+4954,67,male,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+4955,45,male,88,2,880000.0,Unrealistic height: 2; BMI out of normal range: 880000.0
+4962,9,female,37,1,370000.0,Unrealistic height: 1; BMI out of normal range: 370000.0
+4963,52,male,33,49,204.1,Unrealistic height: 49; BMI out of normal range: 204.1
+4966,53,male,67,2,670000.0,Unrealistic height: 2; BMI out of normal range: 670000.0
+4970,62,female,94,2,940000.0,Unrealistic height: 2; BMI out of normal range: 940000.0
+4973,9,male,45,2,450000.0,Unrealistic height: 2; BMI out of normal range: 450000.0
+4977,555544,male,166666,1111,1350.3,"Unrealistic age: 555544; Unrealistic weight: 166666; Unrealistic height: 1111; BMI out of normal range: 1350.3; Suspicious elderly obesity: age 555544.0, BMI 1350.3"
+4980,50,male,79,2,790000.0,Unrealistic height: 2; BMI out of normal range: 790000.0
+4987,50,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+4990,32,male,65,2,650000.0,Unrealistic height: 2; BMI out of normal range: 650000.0
+4994,50,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+4996,44,female,81,2,810000.0,Unrealistic height: 2; BMI out of normal range: 810000.0
+4999,32,male,65,2,650000.0,Unrealistic height: 2; BMI out of normal range: 650000.0
+5000,50,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+5006,9,female,39,1,380000.0,Unrealistic height: 1; BMI out of normal range: 380000.0
+5008,9,female,39,1,380000.0,Unrealistic height: 1; BMI out of normal range: 380000.0
+5010,41,female,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+5014,20,female,63,2,630000.0,Unrealistic height: 2; BMI out of normal range: 630000.0
+5017,20,female,63,2,630000.0,Unrealistic height: 2; BMI out of normal range: 630000.0
+5018,25,male,25,2,250000.0,Unrealistic height: 2; BMI out of normal range: 250000.0
+5020,20,female,63,2,630000.0,Unrealistic height: 2; BMI out of normal range: 630000.0
+5023,28,female,83,158,63.3,BMI out of normal range: 63.3
+5024,35,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+5028,41,female,60,1060,0.5,Unrealistic height: 1060; BMI out of normal range: 0.5
+5029,63,male,105,2,1050000.0,Unrealistic height: 2; BMI out of normal range: 1050000.0
+5031,35,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+5048,49,female,59,1650,0.2,Unrealistic height: 1650; BMI out of normal range: 0.2
+5050,18,female,25,150,11.1,BMI out of normal range: 11.1
+5060,45,male,88,2,880000.0,Unrealistic height: 2; BMI out of normal range: 880000.0
+5067,59,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+5073,41,male,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+5093,27,male,104,1780,0.3,Unrealistic height: 1780; BMI out of normal range: 0.3
+5101,28,female,54,2,540000.0,Unrealistic height: 2; BMI out of normal range: 540000.0
+5117,57,male,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+5125,69,male,83,2,830000.0,Unrealistic height: 2; BMI out of normal range: 830000.0
+5140,52,male,74,2,740000.0,Unrealistic height: 2; BMI out of normal range: 740000.0
+5143,39,female,100,16,3906.3,Unrealistic height: 16; BMI out of normal range: 3906.3
+5144,55,female,79,2,790000.0,Unrealistic height: 2; BMI out of normal range: 790000.0
+5145,25,female,68,2,680000.0,Unrealistic height: 2; BMI out of normal range: 680000.0
+5150,25,female,69,2,690000.0,Unrealistic height: 2; BMI out of normal range: 690000.0
+5152,61,male,98,2,980000.0,Unrealistic height: 2; BMI out of normal range: 980000.0
+5154,60,male,68,5695,1.8,Unrealistic height: 5695; BMI out of normal range: 1.8
+5155,50,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+5156,49,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+5158,17,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+5159,17,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+5160,17,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+5162,56,female,107,1600,0.4,Unrealistic height: 1600; BMI out of normal range: 0.4
+5175,42,female,53,2,530000.0,Unrealistic height: 2; BMI out of normal range: 530000.0
+5196,47,male,88,1800,0.3,Unrealistic height: 1800; BMI out of normal range: 0.3
+5198,47,male,88,1800,0.3,Unrealistic height: 1800; BMI out of normal range: 0.3
+5199,30,male,52,2,520000.0,Unrealistic height: 2; BMI out of normal range: 520000.0
+5212,46,male,119,2,1190000.0,Unrealistic height: 2; BMI out of normal range: 1190000.0
+5224,36,male,51,2,510000.0,Unrealistic height: 2; BMI out of normal range: 510000.0
+5236,44,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+5237,56,female,67,2,670000.0,Unrealistic height: 2; BMI out of normal range: 670000.0
+5253,46,male,79,1790,0.2,Unrealistic height: 1790; BMI out of normal range: 0.2
+5270,74,female,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+5273,9,female,39,1,380000.0,Unrealistic height: 1; BMI out of normal range: 380000.0
+5277,2,male,12,150,5.3,Unrealistic weight: 12; BMI out of normal range: 5.3
+5286,56,male,130,2,1300000.0,Unrealistic height: 2; BMI out of normal range: 1300000.0
+5288,55,male,84,2,840000.0,Unrealistic height: 2; BMI out of normal range: 840000.0
+5294,14,female,35,2,350000.0,Unrealistic height: 2; BMI out of normal range: 350000.0
+5296,14,female,35,2,350000.0,Unrealistic height: 2; BMI out of normal range: 350000.0
+5299,36,female,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+5310,31,male,453,763,13.1,Unrealistic weight: 453; Unrealistic height: 763
+5315,66,male,84,2,840000.0,Unrealistic height: 2; BMI out of normal range: 840000.0
+5323,46,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+5326,44,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+5330,48,male,122,75,216.9,Unrealistic height: 75; BMI out of normal range: 216.9
+5337,35,female,76,2,760000.0,Unrealistic height: 2; BMI out of normal range: 760000.0
+5340,48,male,69,2,690000.0,Unrealistic height: 2; BMI out of normal range: 690000.0
+5341,62,female,68,1520,0.3,Unrealistic height: 1520; BMI out of normal range: 0.3
+5342,62,female,68,1520,0.3,Unrealistic height: 1520; BMI out of normal range: 0.3
+5343,55,male,81,2,810000.0,Unrealistic height: 2; BMI out of normal range: 810000.0
+5357,16,male,45,2,450000.0,Unrealistic height: 2; BMI out of normal range: 450000.0
+5365,63,female,55,2,550000.0,Unrealistic height: 2; BMI out of normal range: 550000.0
+5367,51,male,92,2,920000.0,Unrealistic height: 2; BMI out of normal range: 920000.0
+5373,55,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+5385,54,female,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+5389,62,female,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+5391,47,female,51,2,510000.0,Unrealistic height: 2; BMI out of normal range: 510000.0
+5396,47,female,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+5399,26,female,93,2,930000.0,Unrealistic height: 2; BMI out of normal range: 930000.0
+5400,54,male,43,5130,1.9,Unrealistic height: 5130; BMI out of normal range: 1.9
+5416,9,female,37,1,370000.0,Unrealistic height: 1; BMI out of normal range: 370000.0
+5417,100,female,16,1,160000.0,"Unrealistic weight: 16; Unrealistic height: 1; BMI out of normal range: 160000.0; Suspicious elderly obesity: age 100.0, BMI 160000.0"
+5418,54,female,99,2,990000.0,Unrealistic height: 2; BMI out of normal range: 990000.0
+5420,75,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+5421,9,female,37,1,370000.0,Unrealistic height: 1; BMI out of normal range: 370000.0
+5436,19,female,54,2,540000.0,Unrealistic height: 2; BMI out of normal range: 540000.0
+5443,57,female,79,2,790000.0,Unrealistic height: 2; BMI out of normal range: 790000.0
+5445,32,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+5446,9,female,38,168694,0.0,Unrealistic height: 168694; BMI out of normal range: 0.0
+5449,32,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+5451,32,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+5454,32,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+5458,32,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+5459,11,male,58,2,580000.0,Unrealistic height: 2; BMI out of normal range: 580000.0
+5462,11,male,58,2,580000.0,Unrealistic height: 2; BMI out of normal range: 580000.0
+5463,11,male,58,2,580000.0,Unrealistic height: 2; BMI out of normal range: 580000.0
+5464,65,male,77,2,770000.0,Unrealistic height: 2; BMI out of normal range: 770000.0
+5467,67,female,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+5471,41,male,88,2,880000.0,Unrealistic height: 2; BMI out of normal range: 880000.0
+5473,44,female,64,2,640000.0,Unrealistic height: 2; BMI out of normal range: 640000.0
+5478,17,female,61,13,3609.5,Unrealistic height: 13; BMI out of normal range: 3609.5
+5480,55,female,64,2,640000.0,Unrealistic height: 2; BMI out of normal range: 640000.0
+5500,15,female,73,17,2851.6,Unrealistic height: 17; BMI out of normal range: 2851.6
+5517,123,male,123,123,81.3,"Unrealistic age: 123; BMI out of normal range: 81.3; Suspicious elderly obesity: age 123.0, BMI 81.3"
+5520,8,male,20,1,200000.0,Unrealistic height: 1; BMI out of normal range: 200000.0
+5527,18,male,63,2,630000.0,Unrealistic height: 2; BMI out of normal range: 630000.0
+5530,2,male,10,10,1000.0,Unrealistic weight: 10; Unrealistic height: 10; BMI out of normal range: 1000.0
+5532,58,male,81,76,140.2,Unrealistic height: 76; BMI out of normal range: 140.2
+5535,27,female,56,2,560000.0,Unrealistic height: 2; BMI out of normal range: 560000.0
+5537,23,male,88,2,880000.0,Unrealistic height: 2; BMI out of normal range: 880000.0
+5538,23,male,88,2,880000.0,Unrealistic height: 2; BMI out of normal range: 880000.0
+5539,44,female,110,2,1100000.0,Unrealistic height: 2; BMI out of normal range: 1100000.0
+5541,44,female,110,2,1100000.0,Unrealistic height: 2; BMI out of normal range: 1100000.0
+5553,7,female,211,23,3988.7,Unrealistic height: 23; BMI out of normal range: 3988.7
+5555,59,male,120,2,1200000.0,Unrealistic height: 2; BMI out of normal range: 1200000.0
+5563,50,male,73,2,730000.0,Unrealistic height: 2; BMI out of normal range: 730000.0
+5581,46,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+5585,51,male,98,2,980000.0,Unrealistic height: 2; BMI out of normal range: 980000.0
+5589,28,female,83,158,63.3,BMI out of normal range: 63.3
+5603,53,female,100,2,1000000.0,Unrealistic height: 2; BMI out of normal range: 1000000.0
+5605,53,female,1002,2,10010000.0,Unrealistic weight: 1002; Unrealistic height: 2; BMI out of normal range: 10010000.0
+5607,47,male,58,1700,0.2,Unrealistic height: 1700; BMI out of normal range: 0.2
+5614,17,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+5615,17,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+5623,21,male,40,2,400000.0,Unrealistic height: 2; BMI out of normal range: 400000.0
+5625,51,female,55,63,138.6,Unrealistic height: 63; BMI out of normal range: 138.6
+5627,48,female,175,56,558.0,Unrealistic height: 56; BMI out of normal range: 558.0
+5637,42,male,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+5638,50,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+5643,46,male,82,2,820000.0,Unrealistic height: 2; BMI out of normal range: 820000.0
+5644,38,male,69,2,690000.0,Unrealistic height: 2; BMI out of normal range: 690000.0
+5645,56,female,56,1600,0.2,Unrealistic height: 1600; BMI out of normal range: 0.2
+5655,13,female,65,1,650000.0,Unrealistic height: 1; BMI out of normal range: 650000.0
+5662,37,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+5669,65,male,100,2,1000000.0,Unrealistic height: 2; BMI out of normal range: 1000000.0
+5670,36,female,54,2,540000.0,Unrealistic height: 2; BMI out of normal range: 540000.0
+5676,45,male,64,2,640000.0,Unrealistic height: 2; BMI out of normal range: 640000.0
+5681,45,male,64,2,640000.0,Unrealistic height: 2; BMI out of normal range: 640000.0
+5686,44,female,85,2,850000.0,Unrealistic height: 2; BMI out of normal range: 850000.0
+5692,55,female,98,2,980000.0,Unrealistic height: 2; BMI out of normal range: 980000.0
+5695,23,female,2,2,10000.0,Unrealistic weight: 2; Unrealistic height: 2; BMI out of normal range: 10000.0
+5704,83,female,4303,308303403,0.0,Unrealistic weight: 4303; Unrealistic height: 308303403; BMI out of normal range: 0.0
+5706,56,male,98,2,980000.0,Unrealistic height: 2; BMI out of normal range: 980000.0
+5711,22,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+5714,50,male,98,2,980000.0,Unrealistic height: 2; BMI out of normal range: 980000.0
+5720,68,female,94,59,270.0,Unrealistic height: 59; BMI out of normal range: 270.0
+5725,34,female,61,2,610000.0,Unrealistic height: 2; BMI out of normal range: 610000.0
+5727,45,male,71,2,710000.0,Unrealistic height: 2; BMI out of normal range: 710000.0
+5728,19,female,24,47,212.8,Unrealistic height: 47; BMI out of normal range: 212.8
+5730,24,female,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+5736,58,male,138,2,1380000.0,Unrealistic height: 2; BMI out of normal range: 1380000.0
+5740,18,male,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+5742,18,male,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+5748,50,female,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+5751,15,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+5752,15,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+5758,40,male,27,5250,1.9,Unrealistic height: 5250; BMI out of normal range: 1.9
+5762,24,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+5770,49,female,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+5771,23,male,15,145,7.1,Unrealistic weight: 15; BMI out of normal range: 7.1
+5772,15,male,1,200,0.0,Unrealistic weight: 1; BMI out of normal range: 0.0
+5777,39,female,91,2,910000.0,Unrealistic height: 2; BMI out of normal range: 910000.0
+5784,51,female,83,2,830000.0,Unrealistic height: 2; BMI out of normal range: 830000.0
+5791,18,female,15,18,463.0,Unrealistic weight: 15; Unrealistic height: 18; BMI out of normal range: 463.0
+5797,15,female,5,155,64.5,Unrealistic weight: 5; BMI out of normal range: 64.5
+5799,45,female,70,5,28000.0,Unrealistic height: 5; BMI out of normal range: 28000.0
+5803,37,female,98,2,980000.0,Unrealistic height: 2; BMI out of normal range: 980000.0
+5804,37,female,98,2,980000.0,Unrealistic height: 2; BMI out of normal range: 980000.0
+5806,21,female,68,2,680000.0,Unrealistic height: 2; BMI out of normal range: 680000.0
+5819,58,female,76,2,760000.0,Unrealistic height: 2; BMI out of normal range: 760000.0
+5824,58,female,762,2,7610000.0,Unrealistic weight: 762; Unrealistic height: 2; BMI out of normal range: 7610000.0
+5829,43,male,79,2,790000.0,Unrealistic height: 2; BMI out of normal range: 790000.0
+5830,22,female,57,2,570000.0,Unrealistic height: 2; BMI out of normal range: 570000.0
+5835,50,male,78,1750,0.3,Unrealistic height: 1750; BMI out of normal range: 0.3
+5838,39,female,59,5645,1.8,Unrealistic height: 5645; BMI out of normal range: 1.8
+5841,50,female,52,1650,0.2,Unrealistic height: 1650; BMI out of normal range: 0.2
+5859,51,female,84,2,840000.0,Unrealistic height: 2; BMI out of normal range: 840000.0
+5874,54,female,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+5886,28,female,51,2,510000.0,Unrealistic height: 2; BMI out of normal range: 510000.0
+5894,32,male,100,2,1000000.0,Unrealistic height: 2; BMI out of normal range: 1000000.0
+5897,45,male,73,2,730000.0,Unrealistic height: 2; BMI out of normal range: 730000.0
+5909,39,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+5922,50,male,118,2,1180000.0,Unrealistic height: 2; BMI out of normal range: 1180000.0
+5924,50,male,118,2,1180000.0,Unrealistic height: 2; BMI out of normal range: 1180000.0
+5928,41,male,83,2,830000.0,Unrealistic height: 2; BMI out of normal range: 830000.0
+5929,57,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+5931,57,female,63,2,630000.0,Unrealistic height: 2; BMI out of normal range: 630000.0
+5939,58,male,90,1850,0.3,Unrealistic height: 1850; BMI out of normal range: 0.3
+5953,57,male,97,2,970000.0,Unrealistic height: 2; BMI out of normal range: 970000.0
+5955,55,male,94,2,940000.0,Unrealistic height: 2; BMI out of normal range: 940000.0
+5962,47,male,108,2,1080000.0,Unrealistic height: 2; BMI out of normal range: 1080000.0
+5969,920,female,270182,2498941,0.0,Unrealistic age: 920; Unrealistic weight: 270182; Unrealistic height: 2498941; BMI out of normal range: 0.0
+5981,51,male,112,2,1120000.0,Unrealistic height: 2; BMI out of normal range: 1120000.0
+5983,15,male,47,2,470000.0,Unrealistic height: 2; BMI out of normal range: 470000.0
+6003,13,male,40,2,400000.0,Unrealistic height: 2; BMI out of normal range: 400000.0
+6011,54,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+6019,57,male,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+6021,34,female,61,2,610000.0,Unrealistic height: 2; BMI out of normal range: 610000.0
+6027,89,male,90,170,31.1,"Suspicious elderly obesity: age 89.0, BMI 31.1"
+6028,56,male,87,2,870000.0,Unrealistic height: 2; BMI out of normal range: 870000.0
+6030,38,female,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+6031,38,female,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+6032,56,male,97,2,970000.0,Unrealistic height: 2; BMI out of normal range: 970000.0
+6037,55,female,115167,167,41294.8,Unrealistic weight: 115167; BMI out of normal range: 41294.8
+6048,13,male,23,4710,2.1,Unrealistic height: 4710; BMI out of normal range: 2.1
+6050,57,female,79,2,790000.0,Unrealistic height: 2; BMI out of normal range: 790000.0
+6056,11,male,10,12,694.4,Unrealistic weight: 10; Unrealistic height: 12; BMI out of normal range: 694.4
+6057,27,male,15,126,9.4,Unrealistic weight: 15; BMI out of normal range: 9.4
+6059,18,female,16,123,10.6,Unrealistic weight: 16; BMI out of normal range: 10.6
+6069,0,male,89,172,30.1,Unrealistic age: 0
+6083,49,female,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+6086,48,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+6091,56,male,88,2,880000.0,Unrealistic height: 2; BMI out of normal range: 880000.0
+6105,47,female,198,152,85.7,BMI out of normal range: 85.7
+6106,47,female,198,152,85.7,BMI out of normal range: 85.7
+6107,42,female,29,4979,2.0,Unrealistic height: 4979; BMI out of normal range: 2.0
+6108,52,female,68,2,680000.0,Unrealistic height: 2; BMI out of normal range: 680000.0
+6131,1986,male,92,175,30.0,"Unrealistic age: 1986; Suspicious elderly obesity: age 1986.0, BMI 30.0"
+6132,56,male,68,2,680000.0,Unrealistic height: 2; BMI out of normal range: 680000.0
+6135,26,female,48,2,480000.0,Unrealistic height: 2; BMI out of normal range: 480000.0
+6140,44,male,68,2,680000.0,Unrealistic height: 2; BMI out of normal range: 680000.0
+6141,44,male,68,2,680000.0,Unrealistic height: 2; BMI out of normal range: 680000.0
+6145,68,female,74,2,740000.0,Unrealistic height: 2; BMI out of normal range: 740000.0
+6147,45,male,97,1850,0.3,Unrealistic height: 1850; BMI out of normal range: 0.3
+6149,15,female,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+6155,49,male,37,5250,1.9,Unrealistic height: 5250; BMI out of normal range: 1.9
+6159,53,male,86,70,175.5,Unrealistic height: 70; BMI out of normal range: 175.5
+6165,53,male,931,171,318.4,Unrealistic weight: 931; BMI out of normal range: 318.4
+6178,11,female,2,2,2500.0,Unrealistic weight: 2; Unrealistic height: 2; BMI out of normal range: 2500.0
+6184,44,male,92,2,920000.0,Unrealistic height: 2; BMI out of normal range: 920000.0
+6186,44,male,92,2,920000.0,Unrealistic height: 2; BMI out of normal range: 920000.0
+6187,44,male,92,2,920000.0,Unrealistic height: 2; BMI out of normal range: 920000.0
+6188,47,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+6189,56,male,89,2,890000.0,Unrealistic height: 2; BMI out of normal range: 890000.0
+6201,58,female,53,2,530000.0,Unrealistic height: 2; BMI out of normal range: 530000.0
+6204,43,female,91,2,910000.0,Unrealistic height: 2; BMI out of normal range: 910000.0
+6212,4,female,14,50,56.0,Unrealistic weight: 14; Unrealistic height: 50
+6216,38,female,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+6230,47,male,78,1750,0.3,Unrealistic height: 1750; BMI out of normal range: 0.3
+6235,57,female,63,2,630000.0,Unrealistic height: 2; BMI out of normal range: 630000.0
+6247,22,female,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+6251,31,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+6252,23,male,27,5040,2.0,Unrealistic height: 5040; BMI out of normal range: 2.0
+6253,30,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+6266,54,male,101,69,212.1,Unrealistic height: 69; BMI out of normal range: 212.1
+6272,49,female,110,2,1100000.0,Unrealistic height: 2; BMI out of normal range: 1100000.0
+6285,49,male,94,2,940000.0,Unrealistic height: 2; BMI out of normal range: 940000.0
+6292,56,male,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+6293,61,male,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+6295,61,male,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+6311,48,female,61,1650,0.2,Unrealistic height: 1650; BMI out of normal range: 0.2
+6313,48,female,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+6316,47,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+6318,55,female,58,2,580000.0,Unrealistic height: 2; BMI out of normal range: 580000.0
+6320,55,female,58,2,580000.0,Unrealistic height: 2; BMI out of normal range: 580000.0
+6326,53,male,104,2,1040000.0,Unrealistic height: 2; BMI out of normal range: 1040000.0
+6332,57,male,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+6333,40,female,60,2,600000.0,Unrealistic height: 2; BMI out of normal range: 600000.0
+6337,72,male,76,2,760000.0,Unrealistic height: 2; BMI out of normal range: 760000.0
+6362,44,female,67,2,670000.0,Unrealistic height: 2; BMI out of normal range: 670000.0
+6374,64,female,85,2,850000.0,Unrealistic height: 2; BMI out of normal range: 850000.0
+6381,49,female,81,2,810000.0,Unrealistic height: 2; BMI out of normal range: 810000.0
+6392,57,female,52,2,520000.0,Unrealistic height: 2; BMI out of normal range: 520000.0
+6398,61,male,52,5820,1.7,Unrealistic height: 5820; BMI out of normal range: 1.7
+6399,54,female,72,72,138.9,Unrealistic height: 72; BMI out of normal range: 138.9
+6416,39,male,97,2,970000.0,Unrealistic height: 2; BMI out of normal range: 970000.0
+6417,39,male,97,2,970000.0,Unrealistic height: 2; BMI out of normal range: 970000.0
+6421,50,male,88,2,880000.0,Unrealistic height: 2; BMI out of normal range: 880000.0
+6441,50,male,105,2,1050000.0,Unrealistic height: 2; BMI out of normal range: 1050000.0
+6442,36,female,68,2,680000.0,Unrealistic height: 2; BMI out of normal range: 680000.0
+6444,55,female,27,4740,2.1,Unrealistic height: 4740; BMI out of normal range: 2.1
+6445,50,male,105,2,1050000.0,Unrealistic height: 2; BMI out of normal range: 1050000.0
+6446,55,female,27,4740,2.1,Unrealistic height: 4740; BMI out of normal range: 2.1
+6456,59,female,69,2,690000.0,Unrealistic height: 2; BMI out of normal range: 690000.0
+6458,54,male,112,2,1120000.0,Unrealistic height: 2; BMI out of normal range: 1120000.0
+6460,45,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+6462,60,female,84,2,840000.0,Unrealistic height: 2; BMI out of normal range: 840000.0
+6463,52,male,83,2,830000.0,Unrealistic height: 2; BMI out of normal range: 830000.0
+6465,60,female,84,2,840000.0,Unrealistic height: 2; BMI out of normal range: 840000.0
+6467,30,male,98,2,980000.0,Unrealistic height: 2; BMI out of normal range: 980000.0
+6470,47,female,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+6474,16,male,95,2,950000.0,Unrealistic height: 2; BMI out of normal range: 950000.0
+6476,56,male,76,1700,0.3,Unrealistic height: 1700; BMI out of normal range: 0.3
+6479,1,female,11,77,18.6,Unrealistic weight: 11; Unrealistic height: 77
+6484,15,male,60,73,112.6,Unrealistic height: 73; BMI out of normal range: 112.6
+6502,25,male,89,2,880000.0,Unrealistic height: 2; BMI out of normal range: 880000.0
+6504,28,female,46,2,460000.0,Unrealistic height: 2; BMI out of normal range: 460000.0
+6517,50,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+6519,26,male,89,2,880000.0,Unrealistic height: 2; BMI out of normal range: 880000.0
+6523,55,female,57,2,570000.0,Unrealistic height: 2; BMI out of normal range: 570000.0
+6537,23,female,23,483,20.7,Unrealistic height: 483
+6542,32,male,29,5369,1.9,Unrealistic height: 5369; BMI out of normal range: 1.9
+6551,31,female,2029,101024,0.0,Unrealistic weight: 2029; Unrealistic height: 101024; BMI out of normal range: 0.0
+6556,9,male,5000,100,5000.0,Unrealistic weight: 5000; Unrealistic height: 100; BMI out of normal range: 5000.0
+6562,54,male,111,2,1110000.0,Unrealistic height: 2; BMI out of normal range: 1110000.0
+6571,52,male,105,2,1050000.0,Unrealistic height: 2; BMI out of normal range: 1050000.0
+6572,52,male,105,2,1050000.0,Unrealistic height: 2; BMI out of normal range: 1050000.0
+6573,55,female,82,2,820000.0,Unrealistic height: 2; BMI out of normal range: 820000.0
+6575,55,female,82,2,820000.0,Unrealistic height: 2; BMI out of normal range: 820000.0
+6576,52,male,105,2,1050000.0,Unrealistic height: 2; BMI out of normal range: 1050000.0
+6580,62,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+6582,10,female,64,2,640000.0,Unrealistic height: 2; BMI out of normal range: 640000.0
+6583,10,female,64,2,640000.0,Unrealistic height: 2; BMI out of normal range: 640000.0
+6585,62,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+6594,55,female,7,173,2.3,Unrealistic weight: 7; BMI out of normal range: 2.3
+6595,53,male,104,2,1040000.0,Unrealistic height: 2; BMI out of normal range: 1040000.0
+6606,68,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+6608,7,female,18,122,12.1,Unrealistic weight: 18
+6619,65,male,104,92,122.9,Unrealistic height: 92; BMI out of normal range: 122.9
+6624,22,female,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+6626,22,female,74,2,740000.0,Unrealistic height: 2; BMI out of normal range: 740000.0
+6632,46,female,6,155,64.5,Unrealistic weight: 6; BMI out of normal range: 64.5
+6636,37,female,73,2,730000.0,Unrealistic height: 2; BMI out of normal range: 730000.0
+6640,50,male,83,1740,0.3,Unrealistic height: 1740; BMI out of normal range: 0.3
+6641,36,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+6642,36,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+6643,36,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+6649,43,female,120,54,411.5,Unrealistic height: 54; BMI out of normal range: 411.5
+6666,33,male,74,2,740000.0,Unrealistic height: 2; BMI out of normal range: 740000.0
+6686,52,male,81,7,22500.0,Unrealistic height: 7; BMI out of normal range: 22500.0
+6688,48,female,154,160,60.2,BMI out of normal range: 60.2
+6694,28,female,48,2,480000.0,Unrealistic height: 2; BMI out of normal range: 480000.0
+6709,48,female,154,160,60.2,BMI out of normal range: 60.2
+6712,9,male,29,1,290000.0,Unrealistic height: 1; BMI out of normal range: 290000.0
+6714,59,female,65,1680,0.2,Unrealistic height: 1680; BMI out of normal range: 0.2
+6715,9,male,29,1,290000.0,Unrealistic height: 1; BMI out of normal range: 290000.0
+6716,9,male,29,1,290000.0,Unrealistic height: 1; BMI out of normal range: 290000.0
+6717,49,female,72,1056,0.6,Unrealistic height: 1056; BMI out of normal range: 0.6
+6718,9,male,29,1,290000.0,Unrealistic height: 1; BMI out of normal range: 290000.0
+6720,9,male,29,1,290000.0,Unrealistic height: 1; BMI out of normal range: 290000.0
+6734,60,male,88,2,880000.0,Unrealistic height: 2; BMI out of normal range: 880000.0
+6738,62,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+6740,5,female,16,120,11.1,Unrealistic weight: 16; BMI out of normal range: 11.1
+6745,52,male,65,2,650000.0,Unrealistic height: 2; BMI out of normal range: 650000.0
+6746,52,male,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+6751,62,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+6764,59,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+6769,52,male,94,2,940000.0,Unrealistic height: 2; BMI out of normal range: 940000.0
+6773,52,male,94,2,940000.0,Unrealistic height: 2; BMI out of normal range: 940000.0
+6776,62,male,75,2,750000.0,Unrealistic height: 2; BMI out of normal range: 750000.0
+6778,58,female,87,2,870000.0,Unrealistic height: 2; BMI out of normal range: 870000.0
+6779,58,female,86,2,860000.0,Unrealistic height: 2; BMI out of normal range: 860000.0
+6780,10,male,30,1,300000.0,Unrealistic height: 1; BMI out of normal range: 300000.0
+6782,10,male,30,1,300000.0,Unrealistic height: 1; BMI out of normal range: 300000.0
+6783,21,male,40,2,400000.0,Unrealistic height: 2; BMI out of normal range: 400000.0
+6788,56,female,82,2,820000.0,Unrealistic height: 2; BMI out of normal range: 820000.0
+6793,55,female,27,4740,2.1,Unrealistic height: 4740; BMI out of normal range: 2.1
+6798,68,male,100,72,192.9,Unrealistic height: 72; BMI out of normal range: 192.9
+6801,68,male,100,72,192.9,Unrealistic height: 72; BMI out of normal range: 192.9
+6813,55,female,57,2,570000.0,Unrealistic height: 2; BMI out of normal range: 570000.0
+6817,45,male,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+6820,32,female,23,4500,2.2,Unrealistic height: 4500; BMI out of normal range: 2.2
+6824,14,male,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+6839,12,male,16,373,26.8,Unrealistic weight: 16; Unrealistic height: 373
+6841,12,male,5,16635,0.6,Unrealistic weight: 5; Unrealistic height: 16635; BMI out of normal range: 0.6
+6850,34,male,68,2,680000.0,Unrealistic height: 2; BMI out of normal range: 680000.0
+6855,8,female,47,1,470000.0,Unrealistic height: 1; BMI out of normal range: 470000.0
+6857,15,female,40,86,54.1,Unrealistic height: 86
+6858,8,female,47,1,470000.0,Unrealistic height: 1; BMI out of normal range: 470000.0
+6859,99,male,10,50,40.0,"Unrealistic weight: 10; Unrealistic height: 50; Suspicious elderly obesity: age 99.0, BMI 40.0"
+6861,1,male,1,1,10000.0,Unrealistic weight: 1; Unrealistic height: 1; BMI out of normal range: 10000.0
+6862,20,female,57,2,570000.0,Unrealistic height: 2; BMI out of normal range: 570000.0
+6863,20,female,27,5220,1.9,Unrealistic height: 5220; BMI out of normal range: 1.9
+6865,16,female,56,2,560000.0,Unrealistic height: 2; BMI out of normal range: 560000.0
+6868,45,male,78,2,780000.0,Unrealistic height: 2; BMI out of normal range: 780000.0
+6876,12,female,30,40,187.5,Unrealistic height: 40; BMI out of normal range: 187.5
+6877,14,female,41,2,410000.0,Unrealistic height: 2; BMI out of normal range: 410000.0
+6882,62,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+6892,86,male,172,172,58.1,"Suspicious elderly obesity: age 86.0, BMI 58.1"
+6909,61,female,100,2,1000000.0,Unrealistic height: 2; BMI out of normal range: 1000000.0
+6913,8,male,31,3,34444.4,Unrealistic height: 3; BMI out of normal range: 34444.4
+6916,8,male,30,27,411.5,Unrealistic height: 27; BMI out of normal range: 411.5
+6917,64,male,3,7,612.2,Unrealistic weight: 3; Unrealistic height: 7; BMI out of normal range: 612.2
+6919,45,female,170,160,66.4,BMI out of normal range: 66.4
+6923,48,male,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+6925,48,male,32,54,185.2,Unrealistic height: 54; BMI out of normal range: 185.2
+6926,1979,male,75,2,750000.0,"Unrealistic age: 1979; Unrealistic height: 2; BMI out of normal range: 750000.0; Suspicious elderly obesity: age 1979.0, BMI 750000.0"
+6927,1979,male,75,2,750000.0,"Unrealistic age: 1979; Unrealistic height: 2; BMI out of normal range: 750000.0; Suspicious elderly obesity: age 1979.0, BMI 750000.0"
+6933,50,female,50,56,159.4,Unrealistic height: 56; BMI out of normal range: 159.4
+6944,22,female,32,51,196.1,Unrealistic height: 51; BMI out of normal range: 196.1
+6945,40,male,2,2,10000.0,Unrealistic weight: 2; Unrealistic height: 2; BMI out of normal range: 10000.0
+6952,15,male,64,74,116.9,Unrealistic height: 74; BMI out of normal range: 116.9
+6953,15,male,64,74,116.9,Unrealistic height: 74; BMI out of normal range: 116.9
+6954,36,male,79,2,790000.0,Unrealistic height: 2; BMI out of normal range: 790000.0
+6956,8,male,25,1,250000.0,Unrealistic height: 1; BMI out of normal range: 250000.0
+6958,64,female,67,2,670000.0,Unrealistic height: 2; BMI out of normal range: 670000.0
+6963,17,female,50,2,500000.0,Unrealistic height: 2; BMI out of normal range: 500000.0
+6965,23,female,58,2,580000.0,Unrealistic height: 2; BMI out of normal range: 580000.0
+6967,60,female,63,2,630000.0,Unrealistic height: 2; BMI out of normal range: 630000.0
+6983,56,female,77,163,61.3,BMI out of normal range: 61.3
+6986,50,male,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+6989,12,male,60,63,151.2,Unrealistic height: 63; BMI out of normal range: 151.2
+6992,18,female,30,56,95.7,Unrealistic height: 56; BMI out of normal range: 95.7
+6993,2147483647,male,65,37,474.8,"Unrealistic age: 2147483647; Unrealistic height: 37; BMI out of normal range: 474.8; Suspicious elderly obesity: age 2147483647.0, BMI 474.8"
+6994,54,female,59,2,590000.0,Unrealistic height: 2; BMI out of normal range: 590000.0
+7003,50,male,77,2,770000.0,Unrealistic height: 2; BMI out of normal range: 770000.0
+7010,53,female,52,2,520000.0,Unrealistic height: 2; BMI out of normal range: 520000.0
+7011,53,female,52,2,520000.0,Unrealistic height: 2; BMI out of normal range: 520000.0
+7027,45,female,33,4968,2.0,Unrealistic height: 4968; BMI out of normal range: 2.0
+7029,55,male,28,5460,1.8,Unrealistic height: 5460; BMI out of normal range: 1.8
+7035,6,male,17,115,12.9,Unrealistic weight: 17; Unrealistic height: 115
+7036,6,male,17,115,12.9,Unrealistic weight: 17; Unrealistic height: 115
+7038,52,female,90,2,900000.0,Unrealistic height: 2; BMI out of normal range: 900000.0
+7042,15,female,80,2,800000.0,Unrealistic height: 2; BMI out of normal range: 800000.0
+7055,2,female,4,52,14.8,Unrealistic weight: 4; Unrealistic height: 52
+7059,57,female,62,60,172.2,Unrealistic height: 60; BMI out of normal range: 172.2
+7064,36,male,86,2,860000.0,Unrealistic height: 2; BMI out of normal range: 860000.0
+7068,55,female,107,1700,0.4,Unrealistic height: 1700; BMI out of normal range: 0.4
+7083,50,male,57,246,40.7,Unrealistic height: 246
+7084,45,male,70,2,700000.0,Unrealistic height: 2; BMI out of normal range: 700000.0
+7096,45,female,98,2,980000.0,Unrealistic height: 2; BMI out of normal range: 980000.0
+7097,39,female,45,2,450000.0,Unrealistic height: 2; BMI out of normal range: 450000.0
+7098,34,female,61,2,610000.0,Unrealistic height: 2; BMI out of normal range: 610000.0
+7119,61,male,89,2,890000.0,Unrealistic height: 2; BMI out of normal range: 890000.0
+7121,35,female,65,2147483647,0.0,Unrealistic height: 2147483647; BMI out of normal range: 0.0
+7132,33,female,65,6,26000.0,Unrealistic height: 6; BMI out of normal range: 26000.0
